@@ -21,8 +21,12 @@ class _DefectPrState extends State<DefectPr>{
             Text("Your Vehicle is: ",
                 style: Theme.of(context).textTheme.headline5,
                 textAlign: TextAlign.center),
-            Text("Vehicle Type", textAlign: TextAlign.center),
-            Text("********", textAlign: TextAlign.center),
+            Text("BMW 318i", textAlign: TextAlign.center),
+            Text("CBC - 1396", textAlign: TextAlign.center),
+            Padding(
+                padding: EdgeInsets.fromLTRB(20, 20, 20, 20),
+                child: Text("obdCode: 301\n definition: Random/Multiple Cylinder Misfire Detected",
+                    style: TextStyle(fontSize: 22))),
             IconButton(icon: Icon(Icons.picture_as_pdf), onPressed: (){},alignment: Alignment.bottomRight)
           ],
         ),

@@ -1,9 +1,10 @@
+import 'dart:convert';
+
 import 'package:flutter/material.dart';
 import 'pages/splash_page.dart';
-import 'package:firebase_auth/firebase_auth.dart';
 
-Future<void> main() async{
-  WidgetsFlutterBinding.ensureInitialized();
+void main(){
+  //WidgetsFlutterBinding.ensureInitialized();
   runApp(
       MyApp());
 }
@@ -22,5 +23,4 @@ class MyApp extends StatelessWidget {
     );
   }
 }
-
 

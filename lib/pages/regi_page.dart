@@ -2,13 +2,16 @@ import 'package:flutter/material.dart';
 import 'package:flutterlogindesign/utils/color.dart';
 import 'package:flutterlogindesign/widgets/btn_widget.dart';
 import 'package:flutterlogindesign/widgets/herder_container.dart';
+import 'package:firebase_auth/firebase_auth.dart' ;
 
 class RegPage extends StatefulWidget {
+
   @override
   _RegPageState createState() => _RegPageState();
 }
 
 class _RegPageState extends State<RegPage> {
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -26,7 +29,6 @@ class _RegPageState extends State<RegPage> {
                   children: <Widget>[
                     _textInput(hint: "Fullname", icon: Icons.person),
                     _textInput(hint: "Email", icon: Icons.email),
-                    _textInput(hint: "Phone Number", icon: Icons.call),
                     _textInput(hint: "Password", icon: Icons.vpn_key),
                     _textInput(hint:"Vehicle Reg.No",icon: Icons.call_to_action_rounded),
                     _textInput(hint: "Vehicle Model", icon: Icons.directions_car),
