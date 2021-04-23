@@ -1,0 +1,3071 @@
+0100,Mass or Volume Air Flow Circuit Malfunction
+0101,Mass or Volume Air Flow Circuit Range/Performance Problem
+0102,Mass or Volume Air Flow Circuit Low Input
+0103,Mass or Volume Air Flow Circuit High Input
+0104,Mass or Volume Air Flow Circuit Intermittent
+0105,Manifold Absolute Pressure/Barometric Pressure Circuit Malfunction
+0106,Manifold Absolute Pressure/Barometric Pressure Circuit Range/Performance Problem
+0107,Manifold Absolute Pressure/Barometric Pressure Circuit Low Input
+0108,Manifold Absolute Pressure/Barometric Pressure Circuit High Input
+0109,Manifold Absolute Pressure/Barometric Pressure Circuit Intermittent
+0110,IAT Circuit Malfunction
+0111,Intake Air Temperature Circuit Range/Performance Problem
+0112,Intake Air Temperature Circuit Low Input
+0113,Intake Air Temperature Circuit High Input
+0114,Intake Air Temperature Circuit Intermittent
+0115,Engine Coolant Temperature Circuit Malfunction
+0116,Engine Coolant Temperature Circuit Range/Performance Problem
+0117,Engine Coolant Temperature Circuit Low Input
+0118,Engine Coolant Temperature Circuit High Input
+0119,Engine Coolant Temperature Circuit Intermittent
+0120,Throttle Position Sensor/Switch A Circuit Malfunction
+0121,Throttle Position Sensor/Switch A Circuit Range/Performance Problem
+0122,Throttle Position Sensor/Switch A Circuit Low Input
+0123,Throttle Position Sensor/Switch A Circuit High Input
+0124,Throttle Position Sensor/Switch A Circuit Intermittent
+0125,Insufficient Coolant Temperature for Closed Loop Fuel Control;
+0126,ECT Excessive Time to Closed Loop Fuel Control
+0128,Insufficient Coolant Temperature for Stable Operation
+0130,Coolant Thermostat Malfunction
+0131,O2 Sensor Circuit Malfunction (Bank 1 Sensor 1)
+0132,O2 Sensor Circuit Low Voltage (Bank 1 Sensor 1)
+0133,O2 Sensor Circuit High Voltage (Bank 1 Sensor 1)
+0134,O2 Sensor Circuit Slow Response (Bank 1 Sensor 1)
+0135,O2 Sensor Circuit No Activity Detected (Bank 1 Sensor 1)
+0136,O2 Sensor Heater Circuit Malfunction (Bank 1 Sensor 1)
+0137,O2 Sensor Circuit Malfunction (Bank 1 Sensor 2)
+0138,O2 Sensor Circuit Low Voltage (Bank 1 Sensor 2)
+0139,O2 Sensor Circuit High Voltage (Bank 1 Sensor 2)
+0140,O2 Sensor Circuit Slow Response (Bank 1 Sensor 2)
+0141,O2 Sensor Circuit No Activity Detected (Bank 1 Sensor 2)
+0142,O2 Sensor Heater Circuit Malfunction (Bank 1 Sensor 2)
+0143,O2 Sensor Circuit Malfunction (Bank 1 Sensor 3)
+0144,O2 Sensor Circuit Low Voltage (Bank 1 Sensor 3)
+0145,O2 Sensor Circuit High Voltage (Bank 1 Sensor 3)
+0146,O2 Sensor Circuit Slow Response (Bank 1 Sensor 3)
+0147,O2 Sensor Circuit No Activity Detected (Bank 1 Sensor 3)
+0150,O2 Sensor Heater Circuit Malfunction (Bank 1 Sensor 3)
+0151,O2 Sensor Circuit Malfunction (Bank 2 Sensor 1)
+0152,O2 Sensor Circuit Low Voltage (Bank 2 Sensor 1)
+0153,O2 Sensor Circuit High Voltage (Bank 2 Sensor 1)
+0154,O2 Sensor Circuit Slow Response (Bank 2 Sensor 1)
+0155,O2 Sensor Circuit No Activity Detected (Bank 2 Sensor 1)
+0156,O2 Sensor Heater Circuit Malfunction (Bank 2 Sensor 1)
+0157,O2 Sensor Circuit Malfunction (Bank 2 Sensor 2)
+0158,O2 Sensor Circuit Low Voltage (Bank 2 Sensor 2)
+0159,O2 Sensor Circuit High Voltage (Bank 2 Sensor 2)
+0160,O2 Sensor Circuit Slow Response (Bank 2 Sensor 2)
+0161,O2 Sensor Circuit No Activity Detected (Bank 2 Sensor 2)
+0162,O2 Sensor Heater Circuit Malfunction (Bank 2 Sensor 2)
+0163,O2 Sensor Circuit Malfunction (Bank 2 Sensor 3)
+0164,O2 Sensor Circuit Low Voltage (Bank 2 Sensor 3)
+0165,O2 Sensor Circuit High Voltage (Bank 2 Sensor 3)
+0166,O2 Sensor Circuit Slow Response (Bank 2 Sensor 3)
+0167,O2 Sensor Circuit No Activity Detected (Bank 2 Sensor 3)
+0170,O2 Sensor Heater Circuit Malfunction (Bank 2 Sensor 3)
+0171,Fuel Trim Malfunction (Bank 1)
+0172,Fuel Trim System Lean (Bank 1)
+0173,Fuel Trim too Rich (Bank 1)
+0174,Fuel Trim Malfunction (Bank 2)
+0175,Fuel Trim too Lean (Bank 2)
+0176,Fuel Trim too Rich (Bank 2)
+0177,Fuel Composition Sensor Circuit Malfunction
+0178,Fuel Composition Sensor Circuit Range/Performance
+0179,Fuel Composition Sensor Circuit Low Input
+0180,Fuel Composition Sensor Circuit High Input
+0181,Fuel Temperature Sensor A Circuit Malfunction
+0182,Fuel Temperature Sensor A Circuit Range/Performance
+0183,Fuel Temperature Sensor A Circuit Low Input
+0184,Fuel Temperature Sensor A Circuit High Input
+0185,Fuel Temperature Sensor A Circuit Intermittent
+0186,Fuel Temperature Sensor B Circuit Malfunction
+0187,Fuel Temperature Sensor B Circuit Range/Performance
+0188,Fuel Temperature Sensor B Circuit Low Input
+0189,Fuel Temperature Sensor B Circuit High Input
+0190,Fuel Temperature Sensor B Circuit Intermittent
+0191,Fuel Rail Pressure Sensor Circuit Malfunction
+0192,Fuel Rail Pressure Sensor Circuit Range/Performance
+0193,Fuel Rail Pressure Sensor Circuit Low Input
+0194,Fuel Rail Pressure Sensor Circuit High Input
+0195,Fuel Rail Pressure Sensor Circuit Intermittent
+0196,Engine Oil Temperature Sensor Malfunction
+0197,Engine Oil Temperature Sensor Range/Performance
+0198,Engine Oil Temperature Sensor Low
+0199,Engine Oil Temperature Sensor High
+0200,Engine Oil Temperature Sensor Intermittent
+0201,Injector Circuit Malfunction
+0202,Injector Circuit Malfunction - Cylinder 1
+0203,Injector Circuit Malfunction - Cylinder 2
+0204,Injector Circuit Malfunction - Cylinder 3
+0205,Injector Circuit Malfunction - Cylinder 4
+0206,Injector Circuit Malfunction - Cylinder 5
+0207,Injector Circuit Malfunction - Cylinder 6
+0208,Injector Circuit Malfunction - Cylinder 7
+0209,Injector Circuit Malfunction - Cylinder 8
+0210,Injector Circuit Malfunction - Cylinder 9
+0211,Injector Circuit Malfunction - Cylinder 10
+0212,Injector Circuit Malfunction - Cylinder 11
+0213,Injector Circuit Malfunction - Cylinder 12
+0214,Cold Start Injector 1 Malfunction
+0215,Cold Start Injector 2 Malfunction
+0216,Engine Shutoff Solenoid Malfunction
+0217,Injection Timing Control Circuit Malfunction
+0218,Engine Overtemp Condition
+0219,Transmission Over Temperature Condition
+0220,Engine Overspeed Condition
+0221,Throttle/Petal Position Sensor/Switch B Circuit Malfunction
+0222,Throttle/Petal Position Sensor/Switch B Circuit Range/Performance Problem
+0223,Throttle/Petal Position Sensor/Switch B Circuit Low Input
+0224,Throttle/Petal Position Sensor/Switch B Circuit High Input
+0225,Throttle/Petal Position Sensor/Switch B Circuit Intermittent
+0226,Throttle/Petal Position Sensor/Switch C Circuit Malfunction
+0227,Throttle/Petal Position Sensor/Switch C Circuit Range/Performance Problem
+0228,Throttle/Petal Position Sensor/Switch C Circuit Low Input
+0229,Throttle/Petal Position Sensor/Switch C Circuit High Input
+0230,Throttle/Petal Position Sensor/Switch C Circuit Intermittent
+0231,Fuel Pump Primary Circuit Malfunction
+0232,Fuel Pump Secondary Circuit Low
+0233,Fuel Pump Secondary Circuit High
+0234,Fuel Pump Secondary Circuit Intermittent
+0235,Engine Overboost Condition
+0236,Turbocharger Boost Sensor A Circuit Malfunction
+0237,Turbocharger Boost Sensor A Circuit Range/Performance
+0238,Turbocharger Boost Sensor A Circuit Low
+0239,Turbocharger Boost Sensor A Circuit High
+0240,Turbocharger Boost Sensor B Malfunction
+0241,Turbocharger Boost Sensor B Circuit Range/Performance
+0242,Turbocharger Boost Sensor B Circuit Low
+0243,Turbocharger Boost Sensor B Circuit High
+0244,Turbocharger Wastegate Solenoid A Malfunction
+0245,Turbocharger Wastegate Solenoid A Range/Performance
+0246,Turbocharger Wastegate Solenoid A Low
+0247,Turbocharger Wastegate Solenoid A High
+0248,Turbocharger Wastegate Solenoid B Malfunction
+0249,Turbocharger Wastegate Solenoid B Range/Performance
+0250,Turbocharger Wastegate Solenoid B Low
+0251,Turbocharger Wastegate Solenoid B High
+0252,"Injection Pump Fuel Metering Control ""A"" Malfunction (Cam/Rotor/Injector)"
+0253,"Injection Pump Fuel Metering Control ""A"" Range/Performance (Cam/Rotor/Injector)"
+0254,"Injection Pump Fuel Metering Control ""A"" Low (Cam/Rotor/Injector)"
+0255,"Injection Pump Fuel Metering Control ""A"" High (Cam/Rotor/Injector)"
+0256,"Injection Pump Fuel Metering Control ""A"" Intermittent (Cam/Rotor/Injector)"
+0257,"Injection Pump Fuel Metering Control ""B"" Malfunction (Cam/Rotor/Injector)"
+0258,"Injection Pump Fuel Metering Control ""B"" Range/Performance (Cam/Rotor/Injector)"
+0259,"Injection Pump Fuel Metering Control ""B"" Low (Cam/Rotor/Injector)"
+0260,"Injection Pump Fuel Metering Control ""B"" High (Cam/Rotor/Injector)"
+0261,"Injection Pump Fuel Metering Control ""B"" Intermittent (Cam/Rotor/Injector)"
+0262,Cylinder 1 Injector Circuit Low
+0263,Cylinder 1 Injector Circuit High
+0264,Cylinder 1 Contribution/Balance Fault
+0265,Cylinder 2 Injector Circuit Low
+0266,Cylinder 2 Injector Circuit High
+0267,Cylinder 2 Contribution/Balance Fault
+0268,Cylinder 3 Injector Circuit Low
+0269,Cylinder 3 Injector Circuit High
+0270,Cylinder 3 Contribution/Balance Fault
+0271,Cylinder 4 Injector Circuit Low
+0272,Cylinder 4 Injector Circuit High
+0273,Cylinder 4 Contribution/Balance Fault
+0274,Cylinder 5 Injector Circuit Low
+0275,Cylinder 5 Injector Circuit High
+0276,Cylinder 5 Contribution/Balance Fault
+0277,Cylinder 6 Injector Circuit Low
+0278,Cylinder 6 Injector Circuit High
+0279,Cylinder 6 Contribution/Balance Fault
+0280,Cylinder 7 Injector Circuit Low
+0281,Cylinder 7 Injector Circuit High
+0282,Cylinder 7 Contribution/Balance Fault
+0283,Cylinder 8 Injector Circuit Low
+0284,Cylinder 8 Injector Circuit High
+0285,Cylinder 8 Contribution/Balance Fault
+0286,Cylinder 9 Injector Circuit Low
+0287,Cylinder 9 Injector Circuit High
+0288,Cylinder 9 Contribution/Balance Fault
+0289,Cylinder 10 Injector Circuit Low
+0290,Cylinder 10 Injector Circuit High
+0291,Cylinder 10 Contribution/Balance Fault
+0292,Cylinder 11 Injector Circuit Low
+0293,Cylinder 11 Injector Circuit High
+0294,Cylinder 11 Contribution/Balance Fault
+0295,Cylinder 12 Injector Circuit Low
+0296,Cylinder 12 Injector Circuit High
+0300,Cylinder 12 Contribution/Range Fault
+0301,Random/Multiple Cylinder Misfire Detected
+0302,Cylinder 1 Misfire Detected
+0303,Cylinder 2 Misfire Detected
+0304,Cylinder 3 Misfire Detected
+0305,Cylinder 4 Misfire Detected
+0306,Cylinder 5 Misfire Detected
+0307,Cylinder 6 Misfire Detected
+0308,Cylinder 7 Misfire Detected
+0309,Cylinder 8 Misfire Detected
+0310,Cylinder 9 Misfire Detected
+0311,Cylinder 10 Misfire Detected
+0312,Cylinder 11 Misfire Detected
+0320,Cylinder 12 Misfire Detected
+0321,Ignition/Distributor Engine Speed Input Circuit Malfunction
+0322,Ignition/Distributor Engine Speed Input Circuit Range/Performance
+0323,Ignition/Distributor Engine Speed Input Circuit No Signal
+0325,Ignition/Distributor Engine Speed Input Circuit Intermittent
+0326,Knock Sensor 1 Circuit Malfunction (Bank 1 or Single Sensor)
+0327,Knock Sensor 1 Circuit Range/Performance (Bank 1 or Single Sensor)
+0328,Knock Sensor 1 Circuit Low Input (Bank 1 or Single Sensor)
+0329,Knock Sensor 1 Circuit High Input (Bank 1 or Single Sensor)
+0330,Knock Sensor 1 Circuit Intermittent (Bank 1 or Single Sensor)
+0331,Knock Sensor 2 Circuit Malfunction (Bank 2)
+0332,Knock Sensor 2 Circuit Range/Performance (Bank 2)
+0333,Knock Sensor 2 Circuit Low Input (Bank 2)
+0334,Knock Sensor 2 Circuit High Input (Bank 2)
+0335,Knock Sensor 2 Circuit Intermittent (Bank 2)
+0336,Crankshaft Position Sensor A Circuit Malfunction
+0337,Crankshaft Position Sensor A Circuit Range/Performance
+0338,Crankshaft Position Sensor A Circuit Low Input
+0339,Crankshaft Position Sensor A Circuit High Input
+0340,Crankshaft Position Sensor A Circuit Intermittent
+0341,Camshaft Position Sensor Circuit Malfunction
+0342,Camshaft Position Sensor Circuit Range/Performance
+0343,Camshaft Position Sensor Circuit Low Input
+0344,Camshaft Position Sensor Circuit High Input
+0350,Camshaft Position Sensor Circuit Intermittent
+0351,Ignition Coil Primary/Secondary Circuit Malfunction
+0352,Ignition Coil A Primary/Secondary Circuit Malfunction
+0353,Ignition Coil B Primary/Secondary Circuit Malfunction
+0354,Ignition Coil C Primary/Secondary Circuit Malfunction
+0355,Ignition Coil D Primary/Secondary Circuit Malfunction
+0356,Ignition Coil E Primary/Secondary Circuit Malfunction
+0357,Ignition Coil F Primary/Secondary Circuit Malfunction
+0358,Ignition Coil G Primary/Secondary Circuit Malfunction
+0359,Ignition Coil H Primary/Secondary Circuit Malfunction
+0360,Ignition Coil I Primary/Secondary Circuit Malfunction
+0361,Ignition Coil J Primary/Secondary Circuit Malfunction
+0362,Ignition Coil K Primary/Secondary Circuit Malfunction
+0370,Ignition Coil L Primary/Secondary Circuit Malfunction
+0371,Timing Reference High Resolution Signal A Malfunction
+0372,Timing Reference High Resolution Signal A Too Many Pulses
+0373,Timing Reference High Resolution Signal A Too Few Pulses
+0374,Timing Reference High Resolution Signal A Intermittent/Erratic Pulses
+0375,Timing Reference High Resolution Signal A No Pulses
+0376,Timing Reference High Resolution Signal B Malfunction
+0377,Timing Reference High Resolution Signal B Too Many Pulses
+0378,Timing Reference High Resolution Signal B Too Few Pulses
+0379,Timing Reference High Resolution Signal B Intermittent/Erratic Pulses
+0380,Timing Reference High Resolution Signal B No Pulses
+0381,"Glow Plug/Heater Circuit ""A"" Malfunction"
+0382,Glow Plug/Heater Indicator Circuit Malfunction
+0385,Exhaust Gas Recirculation Flow Malfunction
+0386,Crankshaft Position Sensor B Circuit Malfunction
+0387,Crankshaft Position Sensor B Circuit Range/Performance
+0388,Crankshaft Position Sensor B Circuit Low Input
+0389,Crankshaft Position Sensor B Circuit High Input
+0400,Crankshaft Position Sensor B Circuit Intermittent
+0401,Exhaust Gas Recirculation Flow Malfunction
+0402,Exhaust Gas Recirculation Flow Insufficient Detected
+0403,Exhaust Gas Recirculation Flow Excessive Detected
+0404,Exhaust Gas Recirculation Circuit Malfunction
+0405,Exhaust Gas Recirculation Circuit Range/Performance
+0406,Exhaust Gas Recirculation Sensor A Circuit Low
+0407,Exhaust Gas Recirculation Sensor A Circuit High
+0408,Exhaust Gas Recirculation Sensor B Circuit Low
+0410,Exhaust Gas Recirculation Sensor B Circuit High
+0411,Secondary Air Injection System Malfunction
+0412,Secondary Air Injection System Incorrect Flow Detected
+0413,Secondary Air Injection System Switching Valve A Circuit Malfunction
+0414,Secondary Air Injection System Switching Valve A Circuit Open
+0415,Secondary Air Injection System Switching Valve A Circuit Shorted
+0416,Secondary Air Injection System Switching Valve B Circuit Malfunction
+0417,Secondary Air Injection System Switching Valve B Circuit Open
+0418,Secondary Air Injection System Switching Valve B Circuit Shorted
+0419,"Secondary Air Injection System Relay ""A"" Circuit Malfunction"
+0420,"Secondary Air Injection System Relay ""B"" Circuit Malfunction"
+0421,Catalyst System Efficiency Below Threshold (Bank 1)
+0422,Warm Up Catalyst Efficiency Below Threshold (Bank 1)
+0423,Main Catalyst Efficiency Below Threshold (Bank 1)
+0424,Heated Catalyst Efficiency Below Threshold (Bank 1)
+0426,Heated Catalyst Temperature Below Threshold (Bank 1)
+0427,Catalyst Temperature Sensor Range/Performance (Bank 1)
+0428,Catalyst Temperature Sensor Low Input (Bank 1)
+0430,Catalyst Temperature Sensor High Input (Bank 1)
+0431,Catalyst System Efficiency Below Threshold (Bank 2)
+0432,Warm Up Catalyst Efficiency Below Threshold (Bank 2)
+0433,Main Catalyst Efficiency Below Threshold (Bank 2)
+0434,Heated Catalyst Efficiency Below Threshold (Bank 2)
+0436,Heated Catalyst Temperature Below Threshold (Bank 2)
+0437,Catalyst Temperature Sensor Range/Performance (Bank 2)
+0438,Catalyst Temperature Sensor Low Input (Bank 2)
+0440,Catalyst Temperature Sensor High Input (Bank 2)
+0441,Evaporative Emission Control System Malfunction
+0442,Evaporative Emission Control System Incorrect Purge Flow
+0443,Evaporative Emission Control System Leak Detected (small leak)
+0444,Evaporative Emission Control System Purge Control Valve Circuit Malfunction
+0445,Evaporative Emission Control System Purge Control Valve Circuit Open
+0446,Evaporative Emission Control System Purge Control Valve Circuit Shorted
+0447,Evaporative Emission Control System Vent Control Circuit Malfunction
+0448,Evaporative Emission Control System Vent Control Circuit Open
+0449,Evaporative Emission Control System Vent Control Circuit Shorted
+0450,Evaporative Emission Control System Vent Valve/Solenoid Circuit Malfunction
+0451,Evaporative Emission Control System Pressure Sensor Malfunction
+0452,Evaporative Emission Control System Pressure Sensor Range/Performance
+0453,Evaporative Emission Control System Pressure Sensor Low Input
+0454,Evaporative Emission Control System Pressure Sensor High Input
+0455,Evaporative Emission Control System Pressure Sensor Intermittent
+0460,Evaporative Emission Control System Leak Detected (gross leak)
+0461,Fuel Level Sensor Circuit Malfunction
+0462,Fuel Level Sensor Circuit Range/Performance
+0463,Fuel Level Sensor Circuit Low Input
+0464,Fuel Level Sensor Circuit High Input
+0465,Fuel Level Sensor Circuit Intermittent
+0466,Purge Flow Sensor Circuit Malfunction
+0467,Purge Flow Sensor Circuit Range/Performance
+0468,Purge Flow Sensor Circuit Low Input
+0469,Purge Flow Sensor Circuit High Input
+0470,Purge Flow Sensor Circuit Intermittent
+0471,Exhaust Pressure Sensor Malfunction
+0472,Exhaust Pressure Sensor Range/Performance
+0473,Exhaust Pressure Sensor Low
+0474,Exhaust Pressure Sensor High
+0475,Exhaust Pressure Sensor Intermittent
+0476,Exhaust Pressure Control Valve Malfunction
+0477,Exhaust Pressure Control Valve Range/Performance
+0478,Exhaust Pressure Control Valve Low
+0479,Exhaust Pressure Control Valve High
+0480,Exhaust Pressure Control Valve Intermittent
+0481,Cooling Fan 1 Control Circuit Malfunction
+0482,Cooling Fan 2 Control Circuit Malfunction
+0483,Cooling Fan 3 Control Circuit Malfunction
+0484,Cooling Fan Rationality Check Malfunction
+0485,Cooling Fan Circuit Over Current
+0500,Cooling Fan Power/Ground Circuit Malfunction
+0501,Vehicle Speed Sensor Malfunction
+0502,Vehicle Speed Sensor Range/Performance
+0503,Vehicle Speed Sensor Low Input
+0505,Vehicle Speed Sensor Intermittent/Erratic/High
+0506,Idle Control System Malfunction
+0507,Idle Control System RPM Lower Than Expected
+0510,Idle Control System RPM Higher Than Expected
+0520,Closed Throttle Position Switch Malfunction
+0521,Engine Oil Pressure Sensor/Switch Circuit Malfunction
+0522,Engine Oil Pressure Sensor/Switch Circuit Range/Performance
+0523,Engine Oil Pressure Sensor/Switch Circuit Low Voltage
+0530,Engine Oil Pressure Sensor/Switch Circuit High Voltage
+0531,A/C Refrigerant Pressure Sensor Circuit Malfunction
+0532,A/C Refrigerant Pressure Sensor Circuit Range/Performance
+0533,A/C Refrigerant Pressure Sensor Circuit Low Input
+0534,A/C Refrigerant Pressure Sensor Circuit High Input
+0550,Air Conditioner Refrigerant Charge Loss
+0551,Power Steering Pressure Sensor Circuit Malfunction
+0552,Power Steering Pressure Sensor Circuit Range/Performance
+0553,Power Steering Pressure Sensor Circuit Low Input
+0554,Power Steering Pressure Sensor Circuit High Input
+0560,Power Steering Pressure Sensor Circuit Intermittent
+0561,System Voltage Malfunction
+0562,System Voltage Unstable
+0563,A/C pressure sensor low voltage(Chrysler)
+0565,System Voltage High
+0566,Cruise Control On Signal Malfunction
+0567,Cruise Control Off Signal Malfunction
+0568,Cruise Control Resume Signal Malfunction
+0569,Cruise Control Set Signal Malfunction
+0570,Cruise Control Coast Signal Malfunction
+0571,Cruise Control Accel Signal Malfunction
+0572,Cruise Control/Brake Switch A Circuit Malfunction
+0573,Cruise Control/Brake Switch A Circuit Low
+0574,Cruise Control/Brake Switch A Circuit High
+0575,Cruise Control Related Malfunction
+0576,Cruise Control Related Malfunction
+0578,Cruise Control Related Malfunction
+0579,Cruise Control Related Malfunction
+0580,Cruise Control Related Malfunction
+0600,Cruise Control Related Malfunction
+0601,Serial Communication Link Malfunction
+0602,Control Module Read Only Memory(ROM)
+0603,Control Module Programming Error
+0604,Internal Control Module Keep Alive Memory (KAM) Error
+0605,Internal Control Module Random Access Memory (RAM) Error
+0606,Internal Control Module Read Only Memory (ROM) Error
+0608,PCM Processor Fault
+0609,"Control Module VSS Output ""A"" Malfunction"
+0620,"Control Module VSS Output ""B"" Malfunction"
+0621,Generator Control Circuit Malfunction
+0622,"Generator Lamp ""L"" Control Circuit Malfunction"
+0650,"Generator Field ""F"" Control Circuit Malfunction"
+0654,Malfunction Indicator Lamp (MIL) Control Circuit Malfunction
+0655,Engine RPM Output Circuit Malfunction
+0656,Engine Hot Lamp Output Control Circuit Malfucntion
+0700,Fuel Level Output Circuit Malfunction
+0701,Transmission Control System Malfunction
+0702,Transmission Control System Range/Performance
+0703,Transmission Control System Electrical
+0704,Torque Converter/Brake Switch B Circuit Malfunction
+0705,Clutch Switch Input Circuit Malfunction
+0706,Transmission Range Sensor Circuit malfunction (PRNDL Input)
+0707,Transmission Range Sensor Circuit Range/Performance
+0708,Transmission Range Sensor Circuit Low Input
+0709,Transmission Range Sensor Circuit High Input
+0710,Transmission Range Sensor Circuit Intermittent
+0711,Transmission Fluid Temperature Sensor Circuit Malfunction
+0712,Transmission Fluid Temperature Sensor Circuit Range/Performance
+0713,Transmission Fluid Temperature Sensor Circuit Low Input
+0714,Transmission Fluid Temperature Sensor Circuit High Input
+0715,Transmission Fluid Temperature Sensor Circuit Intermittent
+0716,Input/Turbine Speed Sensor Circuit Malfunction
+0717,Input/Turbine Speed Sensor Circuit Range/Performance
+0718,Input/Turbine Speed Sensor Circuit No Signal
+0719,Input/Turbine Speed Sensor Circuit Intermittent
+0720,Torque Converter/Brake Switch B Circuit Low
+0721,Output Speed Sensor Circuit Malfunction
+0722,Output Speed Sensor Range/Performance
+0723,Output Speed Sensor No Signal
+0724,Output Speed Sensor Intermittent
+0725,Torque Converter/Brake Switch B Circuit High
+0726,Engine Speed input Circuit Malfunction
+0727,Engine Speed Input Circuit Range/Performance
+0728,Engine Speed Input Circuit No Signal
+0730,Engine Speed Input Circuit Intermittent
+0731,Incorrect Gear Ratio
+0732,Gear 1 Incorrect ratio
+0733,Gear 2 Incorrect ratio
+0734,Gear 3 Incorrect ratio
+0735,Gear 4 Incorrect ratio
+0736,Gear 5 Incorrect ratio
+0740,Reverse incorrect gear ratio
+0741,Torque Converter Clutch Circuit Malfuction
+0742,Torque Converter Clutch Circuit Performance or Stuck Off
+0743,Torque Converter Clutch Circuit Stuck On
+0744,Torque Converter Clutch Circuit Electrical
+0745,Torque Converter Clutch Circuit Intermittent
+0746,Pressure Control Solenoid Malfunction
+0747,Pressure Control Solenoid Performance or Stuck Off
+0748,Pressure Control Solenoid Stuck On
+0749,Pressure Control Solenoid Electrical
+0750,Pressure Control Solenoid Intermittent
+0751,Shift Solenoid A Malfunction
+0752,Shift Solenoid A Performance or Stuck Off/
+0753,1-2 Shift Solenoid Valve Performance
+0754,Shift Solenoid A Stuck On
+0755,Shift Solenoid A Electrical/
+0756,1-2 Shift Solenoid Circuit Electrical
+0757,Shift Solenoid A Intermittent
+0758,Shift Solenoid B Malfunction
+0759,Shift Solenoid B Performance or Stuck Off/
+0760,2-3 Shift Solenoid Valve Performance
+0761,Shift Solenoid B Stuck On
+0762,Shift Solenoid B Electrical/ 2-3 Shift Solenoid Circuit Electrical
+0763,Shift Solenoid B Intermittent
+0764,Shift Solenoid C Malfunction
+0765,Shift Solenoid C Performance or Stuck Off
+0766,Shift Solenoid C Stuck On
+0767,Shift Solenoid C Electrical
+0768,Shift Solenoid C Intermittent
+0769,Shift Solenoid D Malfunction
+0770,Shift Solenoid D Performance or Stuck Off
+0771,Shift Solenoid D Stuck On
+0772,Shift Solenoid D Electrical
+0773,Shift Solenoid D Intermittent
+0774,Shift Solenoid E Malfunction
+0775,Shift Solenoid E Performance or Stuck Off
+0776,Shift Solenoid E Stuck On
+0777,Shift Solenoid E Electrical
+0778,Shift Solenoid E Intermittent
+0779,Pressure Control Solenoid B Malfunction
+0780,Pressure Control Solenoid B Performance
+0781,Pressure Control Solenoid B Stuck On
+0782,Pressure Control Solenoid B Electrical
+0783,Pressure Control Solenoid B Intermittent
+0784,Shift Malfunction
+0785,1-2 Shift Malfunction
+0786,2-3 Shift Malfunction
+0787,3-4 Shift Malfunction
+0788,4-5 Shift Malfunction
+0789,Shift/Timing Solenoid Malfunction/ 3-2 Shift Solenoid Circuit Electrical
+0790,Shift/Timing Solenoid Range/Performance
+0801,Shift/Timing Solenoid Low
+0803,Shift/Timing Solenoid High
+0804,Shift/Timing Solenoid Intermittent
+1100,Normal/Performance Switch Circuit Malfunction
+1101,Reverse Inhibit Control Circuit Malfunction
+1102,1-4 Upshift (Skip Shift) Solenoid Control Circuit Malfunction
+1103,1-4 Upshift (Skip Shift) Lamp Control Circuit Malfunction
+1104,MAF Sensor Intermittent/ Check of all OBDII Systems Not Complete
+1105,MAF Sensor Out Of Self Test Range./
+1106,KOER Not Able To Complete  KOER Aborted
+1107,MAF Sensor In Range But Lower Than Expected
+1108,MAF Sensor In Range But Higher Than Expected
+1109,MAF Ground Malfunction
+1110,Dual Alternator Upper Fault
+1111,Dual Alternator Lower Fault/ Manifold Absolute Pressure (MAP) Sensor Circuit Intermittent High Voltage
+1112,Dual Alternator Lower Circuit Malfunction/ Manifold Absolute Pressure (MAP) Sensor Circuit Intermittent Low Voltage
+1113,Dual Alternator Battery Lamp Circuit Malfunction
+1114,IAT - B Sensor Intermittent
+1115,IAT Sensor (D/C) Open/Short
+1116,Intake Air Temperature (IAT) Sensor Circuit Intermittent High Voltage
+1117,Intake Air Temperature (IAT) Sensor Circuit Intermittent Low Voltage
+1118,IAT Sensor Open/Short
+1119,Engine Coolant Temperature (ECT) Sensor Circuit Intermittent Low Voltage/IAT - B Circuit Low Input
+1120,Engine Coolant Temperature (ECT) Sensor Circuit Intermittent High Voltage/IAT - B Circuit High Input
+1121,Engine Coolant sensor out of range/ECT Sensor Out Of Self Test Range
+1122,Engine Coolant Sensor intermittent/ECT Sensor Intermittent
+1123,Manifold Absolute Temperature Circuit Low Input
+1124,Manifold Absolute Temperature Circuit High Input
+1125,Throttle position sensor out of range
+1126,Throttle Position (TP) Sensor Circuit Intermittent High Voltage
+1127,Throttle Position (TP) Sensor Circuit Intermittent Low Voltage
+1128,Throttle Position Sensor In Range But Higher Than Expected
+1129,Throttle Position Sensor Out Of Self Test Range
+1130,Throttle position sensor intermittent
+1131,Throttle Position (Narrow Range) Sensor Circuit Malfunction
+1132,Exhaust Not Warm
+1133,Upstream Heated O2 Sensors Swapped
+1134,Downstream Heated O2 Sensors Swapped
+1135,Lack Of HO2S Switch - Adaptive Fuel At Limit
+1136,Lack Of HO2S Switch - Sensor Indicates Lean
+1137,Lack Of HO2S Switch - Sensor Indicates Rich
+1138,HO2S Insufficient Switching Sensor 1
+1139,HO2S Transition Time Ratio Sensor 1
+1140,Pedal Position Sensor A Circuit Intermittent
+1141,Fan Control Circuit Malfunction
+1142,Lack Of HO2S Switch - Sensor Indicates Lean
+1143,Lack Of HO2S12 Switch - Sensor Indicates Rich
+1144,Water In Fuel Indicator Circuit Malfunction
+1150,Water In Fuel Condition
+1151,Fuel Restriction Indicator Circuit Malfunction
+1152,Fuel Restriction Condition
+1153,Air Assist Control Valve Range/Performance
+1154,Air Assist Control Valve Circuit Malfunction
+1155,Lack Of HO2S21 Switch - Adaptive Fuel At Limit
+1156,Lack Of HO2S21 Switch - Sensor Indicates Lean
+1157,Lack Of HO2S21 Switch - Sensor Indicates Rich
+1158,Bank 2 Fuel Control Shifted Lean
+1159,Bank 2 Fuel Control Shifted Rich
+1167,Alternative Fuel Controller
+1168,Fuel Select Switch Malfunction
+1169,Lack Of HO2S22 Switch - Sensor Indicates Lean
+1170,Lack Of HO2S22 Switch - Sensor Indicates Rich
+1171,Fuel Stepper Motor Malfunction
+1172,Invalid Test
+1173,Fuel Rail Sensor In-Range Low Failure
+1174,Fuel Rail Sensor In-Range High Failure
+1175,ESO - Engine Shut Off Solenoid Fault
+1176,Rotor Sensor Fault
+1177,Rotor Control Fault
+1178,Rotor Calibration Fault
+1180,Cam Sensor Fault
+1181,Cam Control Fault
+1182,Cam Calibration Fault
+1183,Synchronization Fault
+1184,( open )
+1185,Fuel Delivery System Malfunction - Low
+1186,Fuel Delivery System Malfunction - High
+1187,Fuel Shut Off Solenoid Malfunction
+1188,Engine Oil Temperature Circuit Malfunction
+1189,Engine Oil Temperature Out Of Self Test Range
+1190,FTS High - Fuel Pump Temperature Sensor High
+1191,FTS Low - Fuel Pump Temperature Sensor Low
+1192,Variant Selection
+1193,Calibration Memory Fault
+1194,Pump Speed Signal Fault
+1195,Calibration Resistor Out Of Range
+1196,Key Line Voltage
+1197,Voltage External
+1198,EGR Drive Overcurrent
+1199,ECU A/D Converter
+1200,SCP HBCC Failed To Initialize
+1201,Key Off Voltage High
+1202,Key Off Voltage Low
+1203,Pump Rotor Control Underfueling
+1204,Fuel Level Input Circuit Low
+1205,Injector Control Circuit
+1206,Injector Circuit Open / Shorted - Cylinder #1
+1209,Injector Circuit Open / Shorted - Cylinder #2
+1210,Injector Circuit Open / Shorted - Cylinder #3
+1211,Injector Circuit Open / Shorted - Cylinder #4
+1212,Injector Circuit Open / Shorted - Cylinder #5
+1213,Injector Circuit Open / Shorted - Cylinder #6
+1214,Injector Control Pressure System Fault
+1215,Injector Control Pressure Above Expected Level
+1216,Injector Control Pressure Sensor Above / Below Desired
+1217,Injector Control Pressure Not Detected During Crank
+1218,Start Injector Circuit Malfunction
+1219,Pedal Position Sensor B Circuit Intermittent
+1220,Pedal Position Sensor C Circuit Low Input
+1221,Pedal Position Sensor C Circuit High Input
+1222,Pedal Position Sensor C Circuit Intermittent
+1223,CID High
+1224,CID Low
+1225,Series Throttle Control System Malfunction
+1226,Traction Control System Malfunction
+1227,Traction Control Output Circuit Malfunction
+1228,Pedal Demand Sensor B Circuit High Input
+1229,Throttle Position Sensor B Out Of Self Test Range
+1230,Needle Lift Sensor Malfunction
+1231,Control Sleeve Sensor Malfunction
+1232,Wastegate Failed Closed (Over Pressure)
+1233,Wastegate Failed Open (Under Pressure)
+1234,Intercooler Pump Driver Fault
+1235,Fuel Pump Low Speed Malfunction
+1236,Fuel Pump Secondary Circuit Low
+1237,Fuel Pump Speed Primary Circuit Malfunction
+1238,Fuel Pump Driver Module Off Line
+1239,Fuel Pump Driver Module Off Line
+1240,Fuel Pump Control Out Of Range
+1241,Fuel Pump Control Out Of Range
+1242,Fuel Pump Secondary Circuit Malfunction
+1243,Fuel Pump Secondary Circuit Malfunction
+1244,Speed Fuel Pump Positive Feed Fault
+1245,Sensor Power Supply Malfunction
+1246,Sensor Power Supply Low Input
+1247,Sensor Power Supply High Input
+1248,Second Fuel Pump Faulty or Ground Fault
+1249,Alternator Load Input Failed High
+1250,Alternator Load Input Failed Low
+1251,Alternator Load Input Failed
+1252,Turbo Boost Pressure Low
+1253,Turbo Boost Pressure Not Detected
+1254,Wastegate Control Valve Performance
+1255,PRC Solenoid Circuit Malfunction
+1256,Air Mixture Solenoid Circuit Malfunction
+1257,Pedal Correlation PDS1 and LPDS High
+1258,Pedal Correlation PDS1 and LPDS Low
+1259,Pedal Correlation PDS2 and LPDS High
+1260,Pedal Correlation PDS2 and LPDS Low
+1261,Pedal Correlation PDS1 and HPDS
+1262,Pedal Correlation PDS2 and HPDS
+1263,Pedal Correlation PDS1 and PDS2
+1264,Immobilizer to PCM Signal Error
+1265,THEFT Detected
+1266,Cylinder #1 High To Low Side Short
+1267,Cylinder #2 High To Low Side Short
+1268,Cylinder #3 High To Low Side Short
+1269,Cylinder #4 High To Low Side Short
+1270,Cylinder #5 High To Low Side Short
+1271,Cylinder #6 High To Low Side Short
+1272,Cylinder #7 High To Low Side Short
+1273,Cylinder #8 High To Low Side Short
+1274,Immobilizer Code Not Programmed
+1275,Engine RPM Or Speed Limiter Reached
+1276,Cylinder #1 High To Low Side Open
+1277,Cylinder #2 High To Low Side Open
+1278,Cylinder #3 High To Low Side Open
+1280,Cylinder #4 High To Low Side Open
+1281,Cylinder #5 High To Low Side Open
+1282,Cylinder #6 High To Low Side Open
+1283,Cylinder #7 High To Low Side Open
+1284,Cylinder #8 High To Low Side Open
+1285,Injection Control Pressure Out Of Range Low
+1286,Injection Control Pressure Out Of Range High
+1287,Excessive Injection Control Pressure
+1288,IPR Circuit Failure
+1289,Aborted KOER - ICP Failure
+1290,Cylinder head over temp sensed
+1291,Fuel Pulse In Range But Lower Than Expected
+1292,Fuel Pulse In Range But Higher Than Expected
+1293,Cylinder Head Temp Sensor Out Of Self Test Range
+1294,Cylinder Head Temp Sensor High Input
+1295,Cylinder Head Temp Sensor Low Input
+1296,Injector High Side Short To GND Or VBATT - Bank 1
+1297,Injector High Side Short To GND Or VBATT - Bank 2
+1298,Injector High Side Open - Bank 1
+1299,Injector High Side Open - Bank 2/Target idle not reached
+1300,Multi-faults - Bank 1 - With Low Side Shorts
+1301,Multi-faults - Bank 2 - With Low Side Shorts
+1302,Injector High Sides Shorted Together
+1303,IDM Failure
+1304,Cylinder Head Overtemperature Protection Active
+1305,Boost Calibration Fault
+1306,Boost Calibration High
+1307,Boost Calibration Low
+1308,EGR Calibration Fault
+1309,EGR Calibration High
+1313,EGR Calibration Low
+1314,Kickdown Relay Pull - In Circuit Fault
+1315,Kickdown Relay Hold Circuit Fault
+1316,A/C Clutch Circuit Fault
+1317,Misfire Monitor AICE Chip Fault
+1336,Misfire Rate Catalyst Damage Fault - Bank 1
+1340,Misfire Rate Catalyst Damage Fault - Bank 2
+1341,Persistent Misfire
+1345,Injector Circuit / IDM Codes Detected
+1346,Injector Circuit / IDM Codes Not Updated
+1347,Crank / Cam Sensor Range / Performance
+1348,Camshaft Position Sensor B Circuit Malfunction
+1349,Camshaft Position Sensor B Range / Performance
+1350,SGC (Cam Position) Sensor Circuit Malfunction/ Crankshaft Position - Camshaft Position Correlation
+1351,Fuel Level Sensor B Circuit Malfunction
+1352,Fuel Level Sensor B Range / Performance
+1353,Fuel Level Sensor B Circuit Low
+1354,Fuel Level Sensor B Circuit High
+1355,Fuel Level Sensor B Intermittent/Bypass Line Monitor
+1360,IDM Input Circuit Malfunction/ Ignition Coil Control Circuit High Voltage
+1361,Ignition Coil A Primary Circuit Malfunction
+1362,Ignition Coil B Primary Circuit Malfunction
+1363,Ignition Coil C Primary Circuit Malfunction
+1364,Ignition Coil D Primary Circuit Malfunction
+1365,Ignition Coil A Secondary Circuit Malfunction
+1366,Ignition Control (IC) Circuit Low Voltage
+1367,Ignition Coil C Secondary Circuit Malfunction
+1368,Ignition Coil D Secondary Circuit Malfunction
+1369,Ignition Coil Primary Circuit Failure
+1370,Ignition Coil Secondary Circuit Failure
+1371,Ignition Spare
+1372,Ignition Spare
+1373,Ignition Spare
+1374,Engine Temperature Light Monitor Failure
+1375,Insufficient RMP Increase During Spark Test
+1376,Ignition Coil - Cylinder 1 - Early Activation Fault
+1380,Ignition Coil - Cylinder 2 - Early Activation Fault
+1381,Ignition Coil - Cylinder 3 - Early Activation Fault
+1382,Crankshaft Position (CKP)/Ignition Coil - Cylinder 4 - Early Activation Fault
+1383,Ignition Coil - Cylinder 5 - Early Activation Fault
+1384,Ignition Coil - Cylinder 6 - Early Activation Fault
+1385,Misfire Detected - Rough Road Data Not Available
+1386,Variable Cam Timing Overadvanced (Bank #1)/ Misfire Detected - No Communication with BCM
+1387,Variable Cam Timing Solenoid #1 Circuit Malfunction
+1388,Variable Cam Timing Overretarded (Bank #1)
+1389,VVT Solenoid A Malfunction
+1390,Variable Cam Timing Solenoid B Malfunction
+1391,Variable Cam Timing Overadvanced (Bank #2)
+1392,Variable Cam Timing Solenoid #2 Circuit Malfunction
+1393,Variable Cam Timing Overretarded (Bank #2)
+1394,Glow Plug Circuit High Side Low Input
+1395,Octane Adjust Pin Out Of Self Test Range
+1396,Glow Plug Circuit Low Input (Bank #1)
+1397,Glow Plug Circuit High Input (Bank #1)
+1398,Glow Plug Circuit Low Input (Bank #2)
+1399,Glow Plug Circuit High Input (Bank #2)
+1400,Glow Plug Monitor Fault (Bank #1)
+1401,Glow Plug Monitor Fault (Bank #2)
+1402,System Voltage Out Of Self Test Range
+1403,VVT Solenoid B Circuit High Input
+1404,Glow Plug Circuit High Side
+1405,DPFE Circuit Low Input
+1406,DPFE Circuit High Input
+1407,EGR Metering Orifice Restricted
+1408,DPFE Sensor Hoses Reversed
+1409,IAT - B Circuit Malfunction/ Exhaust Gas Recirculation Closed Position Performance
+1411,DPFE Sensor Upstream Hose Off Or Plugged
+1413,Exhaust Gas Recirculation (EGR) Position Sensor Performance
+1414,EGR No Flow Detected
+1415,EGR Flow Out Of Self Test Range
+1416,EVR Control Circuit Malfunction
+1417,SAI System Incorrect Downstream Flow Detected
+1418,SAI System Monitor Circuit Low Input
+1419,SAI System Monitor Circuit High Input
+1420,Air Pump Circuit Malfunction/ (AIR) System Bank 1
+1421,Port Air Circuit Malfunction/ (AIR) System Bank 2
+1422,Port Air Relief Circuit Malfunction
+1423,Split Air #1 Circuit Malfunction
+1424,Split Air #2 Circuit Malfunction
+1425,Catalyst Temperature Sensor Failure
+1426,Catalyst Damage
+1427,EGI Temperature Sensor Failure
+1428,EGI Functionality Test Failed
+1429,EGI Glow Plug Primary Failure
+1430,EGI Glow Plug Secondary Failure
+1433,EGI Mini - MAF Failed Out Of Range
+1434,EGI Mini - MAF Failed Short Circuit
+1435,EGI Mini - MAF Failed Open Circuit
+1436,Electric Air Pump Primary Failure
+1437,Electric Air Pump Secondary Failure
+1438,A/C Refrigerant Temperature Circuit Low
+1439,A/C Refrigerant Temperature Circuit High
+1440,A/C Refrigerant Temperature Circuit Range/Performance
+1441,A/C Evaporator Air Temperature Circuit Low
+1442,A/C Evaporator Air Temperature Circuit Range/Performance
+1443,Floor Temperature Switch Circuit Malfunction
+1444,Purge Valve Stuck Open
+1445,Evaporative Emission (EVAP) System Flow During Non-Purge Chevrolet Only
+1446,Evaporative Emission (EVAP) System Flow During Non-Purge Oldsmobile Only
+1447,Evaporative Emission Control System Leak Detected
+1448,Evaporative Emission Control System Control Valve
+1449,Purge Flow Sensor Circuit Low Input
+1450,Purge Flow Sensor Circuit High Input
+1451,Evaporative Vac Solenoid Circuit Malfunction
+1452,ELC System Closure Valve Flow Fault
+1453,ELC System 2 Fault
+1454,Evaporative Check Solenoid Circuit Malfunction
+1455,Unable To Bleed Up Fuel Tank Vacuum
+1456,Evap  Emission Control Sys Vent Control Valve Circuit
+1457,Unable To Bleed - Up Vacuum in Tank
+1460,Fuel Tank Pressure Relief Valve Malfunction
+1461,Evaporative System Vacuum Test Malfunction
+1462,Evap  Emission Control Sys  Leak Detected (Gross Leak/No Flow)
+1463,Fuel Tank Temperature Sensor Circuit Malfunction
+1464,Unable To Pull Vacuum In Tank
+1465,Wide open throttle A/C cutoff relay circuit
+1466,A/C pressure sensor circuit voltage low
+1467,A/C pressure sensor circuit voltage high
+1468,A/C Pressure Sensor Insufficient Pressure Change
+1469,A/C Demand Out of Self Test Range
+1470,A/C Relay Circuit Malfunction
+1471,A/C Refrigerant Temperature Sensor/Circuit Malfunction
+1472,A/C Compressor Temperature Sensor Malfunction
+1473,SSPOD Open Circuit or Closed Circuit Fault
+1474,Low A/C Cycling Period
+1475,A/C Cycling Period Too Short
+1476,Electrodrive Fan 1 Operational Failure (Driver Side)
+1477,Electrodrive Fan 2 Operational Failure (Passenger Side)
+1478,Fan Secondary High With Fan(s) Off
+1479,Low Fan Control Primary Circuit Malfunction
+1480,Fan Relay (Low) Circuit Malfunction
+1481,Fan Relay (High) Circuit Malfunction
+1482,Additional Fan Relay Circuit Malfunction
+1483,Cooling Fan Driver Fault
+1484,High Fan Control Primary Circuit Malfunction
+1485,Fan Secondary Low with Low Fan On
+1486,Fan Secondary Low With High Fan On
+1487,SCP
+1490,Power To Fan Circuit Overcurrent
+1491,Open Power To Ground VCRM
+1492,EGRV Circuit Malfunction
+1493,EGRA Circuit Malfunction
+1494,EGRCHK Solenoid Circuit Malfunction
+1495,Secondary Air Relief Solenoid Circuit Malfunction
+1500,Secondary Switch Solenoid Circuit Malfunction
+1501,APLSOL Solenoid Circuit Malfunction
+1502,RCNT Solenoid Circuit Malfunction
+1503,SPCUT Solenoid Circuit Malfunction
+1504,TCSPL Solenoid Circuit Malfunction
+1505,Vehicle Speed Sensor Intermittent
+1506,Vehicle Speed Sensor Out Of Self Test Range
+1507,Vehicle Speed Sensor Intermittent Malfunction
+1508,Auxillary Speed Sensor Fault
+1509,Idle Air Control Circuit Malfunction
+1510,Idle Air Control System At Adaptive Clip
+1511,Idle Air Control Overspeed Error
+1512,Idle Air Control Underspeed Error
+1513,Idle Control System Circuit Open
+1514,Idle Control System Circuit Shorted
+1515,Idle Signal Circuit Malfunction
+1516,Idle Switch (Electric Control Throttle) Circuit Malfunction
+1517,Intake Manifold Runner Control (Bank 1) Stuck Closed
+1518,Intake Manifold Runner Control (Bank 2) Stuck Closed
+1519,High Load Neutral/Drive Fault
+1520,Electric Current Circuit Malfunction
+1521,IMRC Input Error (Bank 1)
+1522,IMRC Input Error (Bank 2)
+1523,Intake Manifold Runner Control (Stuck Open)
+1524,Intake Manifold Runner Control (Stuck Closed)
+1525,Intake Manifold Runner Control Circuit Malfunction
+1526,Variable Intake Solenoid #1 Circuit Malfunction
+1527,Variable Intake Solenoid #2 Circuit Malfunction
+1528,IVC Solenoid Circuit Malfunction
+1529,Variable Intake Solenoid System
+1530,Air Bypass Valve System
+1531,Air Bypass System
+1532,Accelerate Warmup Solenoid Circuit Malfunction
+1533,Subsidiary Throttle Valve Solenoid Circuit Malfunction
+1534,SCAIR Solenoid Circuit Malfunction
+1535,A/C Clutch Circuit Malfunction
+1536,Invalid Test - Accelerator Pedal Movement
+1537,IMCC Circuit Malfunction
+1538,AAI Circuit Malfunction
+1539,Inertia Switch Activated
+1540,Blower Fan Speed Circuit Range/Performance
+1549,Parking Brake Switch Circuit Failure
+1550,Intake Manifold Runner Control (Bank 1) Stuck Open
+1565,Intake Manifold Runner Control (Bank 2) Stuck Open
+1566,Power To A/C Clutch Circuit Overcurrent
+1567,Air Bypass Valve Circuit Malfunction
+1568,IMCC Circuit Malfunction
+1571,PSPS Out Of Self Test Range
+1572,Speed Control Command Switch Out of Range High
+1573,Speed Control Command Switch Out of Range Low
+1574,Speed Control Output Circuit Continuity
+1575,Speed Control Unable to Hold Speed
+1576,Brake Switch Malfunction
+1577,Brake Pedal Switch Circuit Malfunction
+1578,Throttle Position Not Available
+1579,Throttle Position Sensor Disagreement btwn Sensors
+1580,Pedal Position Out of Self Test Range
+1581,Pedal Position Not Available
+1582,Pedal Position Sensor Disagreement btwn Sensors
+1583,ETC Power Less Than Demand
+1584,ETC In Power Limiting Mode
+1585,Electronic Throttle Monitor PCM Override
+1586,Electronic Throttle Monitor Malfunction
+1587,Electronic Throttle Monitor Data Available
+1588,Electronic Throttle Monitor Cruise Disable
+1589,TCU Detected IPE Circuit Malfunction
+1600,Throttle Control Unit Malfunction
+1601,Throttle Control Unit Throttle Position Malfunction
+1602,Throttle Control Unit Modulated Command Malfunction
+1603,Throttle Control Unit Detected Loss of Return Spring
+1604,TCU Unable To Control Desired Throttle Angle
+1605,Loss of KAM Power; Open Circuit
+1606,ECM/TCM Serial Communication Error
+1607,Immobilizer/ECM Communication Error
+1608,EEPROM Malfunction
+1609,Code Word Unregestered
+1610,Keep Alive Memory Test Failure
+1611,ECM Control Relay O/P Circuit Malfunction
+1612,MIL O/P Circuit Malfunction
+1613,Internal ECM Malfunction
+1614,Diagnostic Lamp Driver Fault
+1615,SBDS Interactive Codes
+1616,SBDS Interactive Codes
+1617,SBDS Interactive Codes
+1618,SBDS Interactive Codes
+1619,SBDS Interactive Codes
+1620,SBDS Interactive Codes
+1621,SBDS Interactive Codes
+1622,SBDS Interactive Codes
+1623,SBDS Interactive Codes
+1624,SBDS Interactive Codes
+1625,SBDS Interactive Codes
+1626,Control Module Long Term Memory Performance/ Immobilizer Code Words Do Not Match
+1627,Immobilizer ID Does Not Match
+1628,Immobilizer Code Word/ID Number Write Failure
+1629,Anti Theft System
+1630,B+ Supply To VCRM Fan Circuit Malfunction
+1631,Theft Deterrent Fuel Enable Signal Not Received/ B+ Supply To VCRM A/C Circuit Malfunction
+1632,Module Supply Voltage Out Of Range
+1633,Module Ignition Supply Input Malfunction
+1634,Internal Voltage Regulator Malfunction
+1635,Internal Vref Malfunction
+1636,Theft Deterrent Start Enable Signal Not Correct/ Main Relay Malfunction (Power Hold)
+1637,Smart Alternator Faults Sensor/Circuit Malfunction
+1638,KAM Voltage Too Low
+1639,Data Output Link Circuit Failure
+1640,Tire / Axle Ratio Out of Acceptable Range
+1641,Inductive Signature Chip Communication Error
+1642,Can Link ECM/ABSCM Circuit / Network Malfunction
+1643,Can Link ECM/INSTM Circuit / Network Malfunction
+1644,Vehicle ID Block Corrupted or Not Programmed
+1645,Powertrain DTCs Available in Another Module
+1650,Fuel Pump Primary Circuit Failure
+1651,Fuel Pump Monitor Circuit High Input
+1652,Fuel Pump Monitor Circuit Low Input
+1653,Fuel Pump Speed Control Circuit Malfunction
+1654,Fuel Pump Resistor Switch Circuit Malfunction
+1655,PSP Switch Out of Self Test Range
+1660,PSP Switch Input Malfunction
+1661,IAC Monitor Disabled by PSP Switch Failed On
+1662,Power Steering Output Circuit Malfunction
+1663,Recirculation Override Circuit Malfunction
+1667,Starter Disable Circuit Malfunction
+1668,Output Circuit Check Signal High
+1670,Output Circuit Check Signal Low
+1680,IDM_EN Circuit Failure
+1681,Fuel Demand Command Signal Circuit Malfunction
+1682,CI Circuit Malfunction
+1683,PCM - IDM Communications Error
+1684,Electronic Feedback Signal Not Detected
+1685,Metering Oil Pump Malfunction
+1686,Metering Oil Pump Malfunction
+1687,Metering Oil Pump Malfunction
+1688,Metering Oil Pump Temperature Sensor Circuit Malfunction
+1689,Metering Oil Pump Position Sensor Circuit Malfunction
+1690,Metering Oil Pump Stepping Motor Circuit Malfunction
+1691,Metering Oil Pump Stepping Motor Circuit Malfunction
+1692,Metering Oil Pump Stepping Motor Circuit Malfunction
+1693,Metering Oil Pump Stepping Motor Circuit Malfunction
+1694,Oil Pressure Control Solenoid Circuit Malfunction
+1700,Wastegate Solenoid Circuit Malfunction
+1701,Turbo Pressure Control Solenoid Circuit Malfunction
+1702,Turbo Control Solenoid Circuit Malfunction
+1703,Turbo Charge Control Circuit Malfunction
+1704,Turbo Charge Relief Circuit Malfunction
+1705,Transmission Indeterminate Failure (Failed to Neutral)
+1706,Reverse Engagement Error
+1707,TRS Circuit Intermittent Malfunction
+1708,Brake Switch Out Of Self Test Range
+1709,Digital TRS Failed to Transition States in KOEO / KOER
+1711,Not in P or N During KOEO / KOER
+1712,High Vehicle Speed Observed in Park
+1713,Transfer Case Neutral Indicator Hard Fault Present
+1714,Clutch Switch Circuit Malfunction
+1715,PNP Switch Out Of Self Test Range
+1716,TFT Sensor Out Of Self Test Range
+1717,Trans Torque Reduction Request Signal Malfunction
+1718,TFT Sensor In Range Failure Low Value
+1720,SSA Inductive Signature Malfunction
+1721,SSB Inductive Signature Malfunction
+1722,SSC Inductive Signature Malfunction
+1723,SSD Inductive Signature Malfunction
+1724,TFT Sensor In Range Failure High
+1725,Vehicle Speed (Meter) Circuit Malfunction
+1726,Gear 1 Incorrect Ratio
+1727,Gear 2 Incorrect Ratio
+1728,Gear 3 incorrect Ratio
+1729,Gear 4 Incorrect Ratio
+1730,Insufficient Engine Speed Increase During Self Test
+1731,Insufficient Engine Speed Decrease During Self Test
+1732,Coast Clutch Solenoid Inductive Signature Malfunction
+1733,Transmission Slip Error
+1734,4x4 Low Switch Error
+1735,Gear Control Malfunction 2
+1736,1-2 Shift Malfunction
+1737,2-3 Shift Malfunction
+1738,3-4 Shift Malfunction
+1739,Gear Control Malfunction
+1740,First Gear Switch Circuit Malfunction
+1741,Second Gear Switch Circuit Malfunction
+1742,Lockup Solenoid System
+1743,Shift Time Error
+1744,Slip Solenoid System
+1745,Torque Converter Clutch Inductive Signature Malfunction
+1746,Torque Converter Clutch Control Error
+1747,Torque Converter Clutch Solenoid Failed On
+1748,Torque Converter Clutch Solenoid Failied On
+1749,Torque Converter Clutch System Performance
+1751,Line Pressure Solenoid System
+1754,"Pressure Control Solenoid ""A"" Open Circuit"
+1755,"Pressure Control Solenoid ""A"" Short Circuit"
+1756,EPC Malfunction
+1760,Pressure Control Solenoid Failed Low
+1761,Shift Solenoid A Performance
+1762,Coast Clutch Solenoid Circuit Malfunction
+1765,Intermediate Speed Sensor (ISS) Malfunction
+1767,Shift Solenoid B Performance
+1768,"Pressure Control Solenoid ""A"" Short Circuit"
+1769,Shift Solenoid C Performance
+1770,Overdrive Band Failed Off
+1775,Timing Solenoid Circuit Malfunction
+1776,Torque Converter Clutch Circuit Malfunction
+1777,Performance / Normal / Winter Mode Input Malfunction
+1778,AG4 Transmission Torque Modulation Fault
+1779,Clutch Solenoid Circuit Malfunction
+1780,Transmission System MIL Fault
+1781,Ignition Retard Request Duration Fault
+1782,Ignition Retard Request Circuit Fault
+1783,Transmission Reverse I/P Circuit Malfunction
+1784,TCIL Circuit Malfunction
+1785,Trans Control Switch (O/D Cancel) Out of Self Test Range
+1786,4X4 Switch Out of Self Test Range
+1787,P/ES Circuit Out Of Self Test Range
+1788,Transmission Overtemperature Condition
+1789,Transmission Mechanical Failure - First And Reverse
+1790,Transmission Mechanical Failure - First And Second
+1791,3-2 Downshift Error
+1792,2-1 Downshift Error
+1793,"Pressure Control Solenoid ""B"" Open Circuit"
+1794,"Pressure Control Solenoid ""B"" Short Circuit"
+1795,TP (Mechanical) Circuit Malfunction
+1796,TP (Electric) Circuit Malfunction
+1797,Barometer Pressure Circuit Malfunction
+1798,Intake Air Volume Circuit Malfunction
+1799,Battery Voltage Circuit Malfunction
+1800,Idle Switch Circuit Malfunction
+1801,Kick Down Switch Circuit Malfunction
+1802,Neutral Switch Circuit Malfunction
+1803,Coolant Temperature Circuit Malfunction
+1804,Hold Switch Circuit Malfunction
+1805,Transmission Clutch Interlock Safety Switch Circuit Failure
+1806,Transmission Clutch Interlock Safety Switch Open Circuit
+1807,Transmission Clutch Interlock Safety Switch Short Circuit To Battery
+1808,Transmission Clutch Interlock Safety Switch Short Circuit To Ground
+1809,Transmission 4-Wheel Drive High Indicator Circuit Failure
+1810,Transmission 4-Wheel Drive High Indicator Open Circuit
+1811,Transmission 4-Wheel Drive High Indicator Short Circuit To Battery
+1812,Transmission 4-Wheel Drive High Indicator Short Circuit To Ground
+1813,Transmission 4-Wheel Drive Low Indicator Circuit Failure
+1814,Transmission 4-Wheel Drive Low Indicator Open Circuit
+1815,TFP Valve Position Switch Circuit/ Transmission 4-Wheel Drive Low Indicator Short Circuit To Battery
+1816,Transmission 4-Wheel Drive Low Indicator Short Circuit To Ground
+1817,Transmission 4-Wheel Drive Mode Select Circuit Failure
+1818,Transmission 4-Wheel Drive Mode Select Open Circuit
+1819,Transmission 4-Wheel Drive Mode Select Short Circuit To Battery
+1820,Transmission 4-Wheel Drive Mode Select Short Circuit To Ground
+1821,Transmission Neutral Safety Switch Circuit Failure
+1822,Transmission Neutral Safety Switch Open Circuit
+1823,Transmission Neutral Safety Switch Short Circuit To Battery
+1824,Transmission Neutral Safety Switch Short Circuit To Ground
+1825,Transmission Transfer Case Clockwise Shift Relay Coil Circuit Failure
+1826,Transmission Transfer Case Clockwise Shift Relay Coil Open Circuit
+1827,Transmission Transfer Case Clockwise Shift Relay Coil Short Circuit To Battery
+1828,Transmission Transfer Case Clockwise Shift Relay Coil Short Circuit To Ground
+1829,Transmission 4-Wheel Drive Clutch Relay Circuit Failure
+1830,Transmission 4-Wheel Drive Clutch Relay Open Circuit
+1831,Transmission 4-Wheel Drive Low Clutch Relay Circuit To Battery
+1832,Transmission 4-Wheel Drive Low Clutch Relay Circuit To Ground
+1833,Transmission Transfer Case Counter Clockwise Shift Relay Coil Circuit Failure
+1834,Transmission Transfer Case Counter Clockwise Shift Relay Coil Open Circuit
+1835,Transmission Transfer Case Counter Clockwise Shift Relay Coil Short Circuit To Battery
+1836,Transmission Transfer Case Counter Clockwise Shift Relay Coil Short Circuit To Ground
+1837,Transmission Transfer Case Differential Lock-Up Solenoid Circuit Failure
+1838,Transmission Transfer Case Differential Lock-Up Solenoid Open Circuit
+1839,Transmission Transfer Case Differential Lock-Up Solenoid Short Circuit To Battery
+1840,Transmission Transfer Case Differential Lock-Up Solenoid Short Circuit To Ground
+1841,Transmission Transfer Case Front Shaft Speed Sensor Circuit Failure
+1842,Transmission Transfer Case Rear Shaft Speed Sensor Circuit Failure
+1843,Transmission Transfer Case Shift Motor Circuit Failure
+1844,Transmission Transfer Case Shift Motor Open Circuit
+1845,Transmission Transfer Case Shift Motor Short Circuit To Battery
+1846,Transmission Transfer Case Shift Motor Short Circuit To Ground
+1847,Transmission Transfer Case Differential Lock-Up Feedback Switch Circuit Failure
+1848,Transmission Transfer Case Differential Lock-Up Feedback Switch Open Circuit
+1849,Transmission Transfer Case Differential Lock-Up Feedback Switch Short Circuit To Battery
+1850,Transmission Transfer Case Differential Lock-Up Feedback Switch Short Circuit To Ground
+1867,Transmission Transfer Case Contact Plate Power Circuit Failure
+1868,Transmission Transfer Case Contact Plate Power Open Circuit
+1869,Transmission Transfer Case Contact Plate Power Short To Battery
+1870,Transmission Transfer Case Contact Plate Power Short To Ground
+1871,Transmission Transfer Case System Concern - Servicing Required
+1872,Transmission Transfer Case Contact Plate General Circuit Failure
+1873,Transmission Automatic 4-Wheel Drive Indicator (Lamp) Circuit Failure
+1874,Transmission Automatic 4-Wheel Drive Indicator (Lamp) Circuit Short To Battery
+1875,Transmission Component Slipping/ Transmission Mechanical Transfer Case 4x4 Switch Circuit Failure
+1876,Transmission Mechanical Transfer Case 4x4 Switch Circuit Short To Battery
+1877,Transmission Mechanical 4-Wheel Drive Axle Lock Lamp Circuit Failure
+1878,Transmission Mechanical 4-Wheel Drive Axle Lock Lamp Circuit Short To Battery
+1879,Transmission Automatic Hall Effect Sensor Power Circuit Failure
+1880,Transmission Automatic Hall Effect Sensor Power Circuit Short To Battery / 4WD Low Switch Circuit Electrical
+1881,Transmission Transfer Case 2-Wheel Drive Solenoid Circuit Failure
+1882,Transmission Transfer Case 2-Wheel Drive Solenoid Circuit Short To Battery
+1883,Transmission Transfer Case Disengaged Solenoid Circuit Failure
+1884,Transmission Transfer Case Disengaged Solenoid Open Circuit
+1885,Transmission Transfer Case Disengaged Solenoid Short to Battery
+1886,Engine Coolant Level Switch Circuit Failure
+1890,Engine Coolant Level Switch Circuit Short to Ground
+1891,Engine Coolant Level Switch Circuit Failure
+1900,Engine Coolant Level Lamp Circuit Short to Ground
+1901,Transmission Transfer Case Disengaged Solenoid Short to Ground
+1902,4X4 Initialization Failure
+1903,Transmission 4WD Mode Select Return Input Circuit Failure
+1904,Transmission Transfer Case Contact Plate Ground Return Open Circuit
+1905,OSS Circuit Intermittent Malfunction
+1906,TSS Circuit Intermittent Malfunction
+1907,"Pressure Control Solenoid ""B"" Intermittent Short"
+1908,"Pressure Control Solenoid ""C"" Short Circuit"
+1909,"Pressure Control Solenoid ""C"" Open Circuit"
+1910,"Pressure Control Solenoid ""C"" Intermittent Short"
+1911,Kickdown Pull Relay Open or Short Circuit to Ground
+1912,Kickdown Hold Relay Open or Short Circuit to Ground
+1913,Transmission Pressure Circuit Solenoid Open or Short to Ground
+1914,Trans  Temp  Sensor Circuit Open or Shorted to Pwr  or Gnd
+1915,VFS A Pressure Output Failed Low
+1916,VFS B Pressure Output Failed Low
+1917,VFS C Pressure Output Failed Low
+1918,Pressure Switch A Circuit Malfunction
+1200,Climate Control Pushbutton Circuit Failure
+1201,Fuel Sender Circuit Failure
+1202,Fuel Sender Circuit Open
+1203,Fuel Sender Circuit Short To Battery
+1204,Fuel Sender Circuit Short To Ground
+1205,EIC Switch-1 Assembly Circuit Failure
+1206,EIC Switch-1 Assembly Circuit Open
+1207,EIC Switch-1 Assembly Circuit Short To Battery
+1208,EIC Switch-1 Assembly Circuit Short To Ground
+1209,EIC Switch-2 Assembly Circuit Failure
+1210,EIC Switch-2 Assembly Circuit Open
+1211,EIC Switch-2 Assembly Circuit Short To Battery
+1212,EIC Switch-2 Assembly Circuit Short To Ground
+1213,Anti-Theft Number of Programmed Keys Is Below Minimum
+1214,Running Board Lamp Circuit Failure
+1215,Running Board Lamp Circuit Short to Battery
+1216,Emergency & Road Side Assistance Switch Circuit Short to Ground
+1217,Horn Relay Coil Circuit Failure
+1218,Horn Relay Coil Circuit Short to Vbatt
+1219,Fuel Tank Pressure Sensor Circuit Failure
+1220,Fuel Tank Pressure Sensor Circuit Open
+1222,Fuel Temperature Sensor #1 Circuit Failure
+1223,Fuel Temperature Sensor #1 Circuit Open
+1224,Fuel Temperature Sensor #1 Circuit Short to Battery
+1225,Fuel Temperature Sensor #1 Circuit Short to Ground
+1226,Fuel Temperature Sensor #2 Circuit Failure
+1227,Fuel Temperature Sensor #2 Circuit Open
+1228,Fuel Temperature Sensor #2 Circuit Short to Battery
+1229,Fuel Temperature Sensor #2 Circuit Short to Ground
+1231,Longitudinal Acceleration Threshold Exceeded
+1232,See Manufacturer
+1233,Glass Break Sensor Failure
+1234,Mirror Switch Invalid Code
+1235,Window Feedback Failure
+1236,Window Feedback Loss of Signal
+1237,Window Feedback Out of Range
+1238,Over Temperature Fault
+1239,Air Flow Blend Door Driver Circuit Failure
+1240,Wiper Washer Rear Pump Relay Circuit Failure
+1241,Wiper Washer Rear Pump Relay Circuit Short to Battery
+1242,Air Flow Recirculation Door Driver Circuit Failure
+1243,Express Window Down Switch Circuit Short to Battery
+1244,Wiper Rear Motor Run Relay Circuit Failure
+1245,Wiper Rear Motor Run Relay Circuit Short to Battery
+1246,Dim Panel Potentiometer Switch Circuit Failure
+1247,Panel Dim Switch Circuit Open
+1249,Blend Door Failure
+1250,Air Temperature Internal Sensor Circuit Failure
+1251,Air Temperature Internal Sensor Circuit Open
+1252,Air Temperature Internal Sensor Circuit Short To Battery
+1253,Air Temperature Internal Sensor Circuit Short To Ground
+1254,Air Temperature External Sensor Circuit Failure
+1255,Air Temperature External Sensor Circuit Open
+1256,Air Temperature External Sensor Circuit Short To Battery
+1257,Air Temperature External Sensor Circuit Short To Ground
+1258,Solar Radiation Sensor Circuit Failure
+1259,Solar Radiation Sensor Circuit Open
+1260,Solar Radiation Sensor Circuit Short To Battery
+1261,Solar Radiation Sensor Circuit Short To Ground
+1262,Servo Motor Defrost Circuit Failure
+1263,Servo Motor Vent Circuit Failure
+1264,Servo Motor Foot Circuit Failure
+1265,Servo Motor Coolair Bypass Circuit  Failure
+1266,Servo Motor Airintake Left Circuit Failure
+1267,Servo Motor Airintake Right Circuit Failure
+1268,Servo Motor Potentiometer Defrost Circuit Failure
+1269,Servo Motor Potentiometer Defrost Circuit Open
+1270,Servo Motor Potentiometer Defrost Circuit Short To Battery
+1271,Servo Motor Potentiometer Defrost Circuit Short To Ground
+1272,Servo Motor Potentiometer Vent Circuit Failure
+1273,Servo Motor Potentiometer Vent Circuit Open
+1274,Servo Motor Potentiometer Vent Circuit Short To Battery
+1275,Servo Motor Potentiometer Vent Circuit Short To Ground
+1276,Servo Motor Potentiometer Foot Circuit Failure
+1277,Servo Motor Potentiometer Foot Circuit Open
+1278,Servo Motor Potentiometer Foot Circuit Short To Battery
+1279,Servo Motor Potentiometer Foot Circuit Short To Ground
+1280,Servo Motor Potentiometer Coolair Circuit Failure
+1281,Servo Motor Potentiometer Coolair Circuit Open
+1282,Servo Motor Potentiometer Coolair Circuit Short To Battery
+1283,Servo Motor Potentiometer Coolair Circuit Short To Ground
+1284,Servo Motor Potentiometer Airintake Left Circuit Failure
+1285,Servo Motor Potentiometer Airintake Left Circuit Open
+1286,Servo Motor Potentiometer Airintake Left Circuit Short To Battery
+1287,Servo Motor Potentiometer Airintake Left Circuit Short To Ground
+1288,Servo Motor Potentiometer Airintake Right Circuit Failure
+1289,Servo Motor Potentiometer Airintake Right Circuit Open
+1290,Servo Motor Potentiometer Airintake Right Circuit Short To Battery
+1291,Servo Motor Potentiometer Airintake Right Circuit Short To Ground
+1292,Battery Power Relay Circuit Failure
+1293,Battery Power Relay Circuit Open
+1294,Battery Power Relay Circuit Short To Battery
+1295,Battery Power Relay Circuit Short To Ground
+1296,Power Supply Sensor Circuit Failure
+1297,Power Supply Sensor Circuit Open
+1298,Power Supply Sensor Circuit Short To Battery
+1299,Power Supply Sensor Circuit Short To Ground
+1300,Power Door Lock Circuit Failure
+1301,Power Door Lock Circuit Open
+1302,Accessory Delay Relay Coil Circuit Failure
+1303,Accessory Delay Relay Coil Circuit Open
+1304,Accessory Delay Relay Coil Circuit Short To Battery
+1305,Accessory Delay Relay Coil Circuit Short To Ground
+1306,Oil Level Switch Circuit Open
+1307,Oil Level Switch Circuit Short To Battery
+1308,Oil Level Switch Circuit Short To Ground
+1309,Power Door Lock Circuit Short To Ground
+1310,Power Door Unlock Circuit Failure
+1311,Power Door Unlock Circuit Open
+1312,Lamp Headlamp Input Circuit Short To Battery
+1313,Battery Saver Relay Coil Circuit Failure
+1314,Battery Saver Relay Coil Circuit Open
+1315,Battery Saver Relay Coil Circuit Short To Battery
+1316,Battery Saver Relay Coil Circuit Short To Ground
+1317,Battery Voltage High
+1318,Battery Voltage Low
+1319,Driver Door Ajar Circuit Failure
+1320,Driver Door Ajar Circuit Open
+1321,Driver Door Ajar Circuit Short To Battery
+1322,Driver Door Ajar Circuit Short To Ground
+1323,Door Ajar Lamp Circuit Failure
+1324,Door Ajar Lamp Circuit Open
+1325,Door Ajar Lamp Circuit Short To Battery
+1326,Door Ajar Lamp Circuit Short To Ground
+1327,Passenger Door Ajar Circuit Failure
+1328,Passenger Door Ajar Circuit Open
+1329,Passenger Door Ajar Circuit Short To Battery
+1330,Passenger Door Ajar Circuit Short To Ground
+1331,Decklid Ajar Rear Door Circuit Failure
+1332,Decklid Ajar Rear Door Circuit Open
+1333,Decklid Ajar Rear Door Circuit Short To Battery
+1334,Decklid Ajar Rear Door Circuit Short To Ground
+1335,Door Ajar RR Circuit Failure
+1336,Door Ajar RR Circuit Open
+1337,Door Ajar RR Circuit Short To Battery
+1338,Door Ajar RR Circuit Short To Ground
+1339,Chime Input Request Circuit Short To Battery
+1340,Chime Input Request Circuit Short To Ground
+1341,Power Door Unlock Circuit Short To Ground
+1342,ECU Is Defective
+1343,Heated Backlite Input Circuit Failure
+1344,Heated Backlite Input Circuit Open
+1345,Heated Backlite Input Circuit Short To Ground
+1346,Heated Backlite Input Circuit Short To Battery
+1347,Heated Backlite Relay Circuit Failure
+1348,Heated Backlite Relay Circuit Open
+1349,Heated Backlite Relay Short To Battery
+1350,Heated Backlite Relay Short To Ground
+1351,Ignition Key-In Circuit Short To Battery
+1352,Ignition Key-In Circuit Failure
+1353,Ignition Key-In Circuit Open
+1354,Ignition Key-In Circuit Short To Ground
+1355,Ignition Run Circuit Failure
+1356,Ignition Run Circuit Open
+1357,Ignition Run Circuit Short To Battery
+1358,Ignition Run Circuit Short To Ground
+1359,Ignition Run/Acc Circuit Failure
+1360,Ignition Run/Acc Circuit Open
+1361,Ignition Run/Acc Circuit Short To Battery
+1362,Ignition Run/Acc Circuit Short To Ground
+1363,Ignition Start Circuit Failure
+1364,Ignition Start Circuit Open
+1365,Ignition Start Circuit Short To Battery
+1366,Ignition Start Circuit Short To Ground
+1367,Ignition Tach Circuit Failure
+1368,Ignition Tach Circuit Open
+1369,Ignition Tach Circuit Short To Battery
+1370,Ignition Tach Circuit Short To Ground
+1371,Illuminated Entry Relay Circuit Failure
+1372,Illuminated Entry Relay Circuit Open
+1373,Illuminated Entry Relay Short To Battery
+1374,Illuminated Entry Relay Short To Ground
+1375,Oil Change Lamp Circuit Open
+1376,Oil Change Lamp Circuit Short To Battery
+1377,Oil Change Lamp Circuit Failure
+1378,Oil Change Lamp Circuit Short To Ground
+1379,Oil Change Reset Button Circuit Short To Ground
+1380,Oil Change Reset Button Circuit Failure
+1381,Oil Change Reset Button Circuit Open
+1382,Oil Change Reset Button Circuit Short To Battery
+1383,Oil Level Lamp Circuit Short To Battery
+1384,Oil Level Lamp Circuit Failure
+1385,Oil Level Lamp Circuit Open
+1386,Oil Level Lamp Circuit Short To Ground
+1387,Oil Temperature Sensor Circuit Open
+1388,Oil Temperature Sensor Circuit Short To Battery
+1389,Oil Temperature Sensor Circuit Failure
+1390,Oil Temperature Sensor Circuit Short To Ground
+1391,Oil Level Switch Circuit Failure
+1392,Power Door Memory Lock Relay Circuit Failure
+1393,Power Door Memory Lock Relay Circuit Open
+1394,Power Door Memory Lock Relay Circuit Short To Battery
+1395,Power Door Memory Lock Relay Circuit Short To Ground
+1396,Power Door Lock Circuit Short To Battery
+1397,Power Door Unlock Circuit Short To Battery
+1398,Driver Power Window One Touch Window Relay Circuit Failure
+1399,Driver Power Window One Touch Window Relay Circuit Open
+1400,Driver Power Window One Touch Window Relay Circuit Short To Battery
+1401,Driver Power Window One Touch Window Relay Circuit Short To Ground
+1402,Driver Power Window Down Switch Circuit Failure
+1403,Driver Power Window Up Switch Circuit Failure
+1404,Driver Power Window Down Circuit Open
+1405,Driver Power Window Down Circuit Short To Battery
+1406,Driver Power Window Down Circuit Short To Ground
+1407,Driver Power Window Up Circuit Open
+1408,Driver Power Window Up Circuit Short To Battery
+1409,Driver Power Window Up Circuit Short To Ground
+1410,Driver Power Window Motor Circuit Failure
+1411,Driver Power Window Motor Circuit Open
+1412,Driver Power Window Motor Circuit Short To Battery
+1413,Driver Power Window Motor Circuit Short To Ground
+1414,Power Window LR Motor Circuit Failure
+1415,Power Window LR Motor Circuit Open
+1416,Power Window LR Motor Circuit Short To Battery
+1417,Power Window LR Motor Circuit Short To Ground
+1418,Passenger Power Window Motor Circuit Failure
+1419,Passenger Power Window Motor Circuit Open
+1420,Passenger Power Window Motor Circuit Short To Battery
+1421,Passenger Power Window Motor Circuit Short To Ground
+1422,Power Window RR Motor Circuit Failure
+1423,Power Window RR Motor Circuit Open
+1424,Power Window RR Motor Circuit Short To Battery
+1425,Power Window RR Motor Circuit Short To Ground
+1426,Lamp Seat Belt Circuit Short To Battery
+1427,Lamp Seat Belt Circuit Open
+1428,Lamp Seat Belt Circuit Failure
+1429,Lamp Seat Belt Circuit Short To Ground
+1430,Seat Belt Switch Circuit Short To Ground
+1431,Wiper Brake/Run Relay Circuit Failure
+1432,Wiper Brake/Run Relay Circuit Short To Battery
+1433,Wiper Brake/Run Relay Circuit Short To Ground
+1434,Wiper Hi/Low Speed Relay Coil Circuit Failure
+1435,Wiper Hi/Low Speed Relay Coil Circuit Open
+1436,Wiper Hi/Low Speed Relay Coil Circuit Short To Battery
+1437,Wiper Hi/Low Speed Relay Coil Circuit Short To Ground
+1438,Wiper Mode Select Switch Circuit Failure
+1439,Wiper Mode Select Switch Circuit Open
+1440,Wiper Mode Select Switch Circuit Short To Battery
+1441,Wiper Mode Select Switch Circuit Short To Ground
+1442,Door Handle Switch Circuit Failure
+1443,Door Handle Switch Circuit Open
+1444,Door Handle Switch Circuit Short To Battery
+1445,Door Handle Switch Circuit Short To Ground
+1446,Wiper Park Sense Circuit Failure
+1447,Wiper Park Sense Circuit Open
+1448,Wiper Park Sense Circuit Short To Battery
+1449,Wiper Park Sense Circuit Short To Ground
+1450,Wiper Wash/Delay Switch Circuit Failure
+1451,Wiper Wash/Delay Switch Circuit Open
+1452,Wiper Wash/Delay Switch Circuit Short To Battery
+1453,Wiper Wash/Delay Switch Circuit Short To Ground
+1454,Wiper Washer Fluid Lamp Circuit Failure
+1455,Wiper Washer Fluid Lamp Circuit Open
+1456,Wiper Washer Fluid Lamp Circuit Short To Battery
+1457,Wiper Washer Fluid Lamp Circuit Short To Ground
+1458,Wiper Washer Pump Motor Relay Circuit Failure
+1459,Wiper Washer Pump Motor Relay Coil Circuit Open
+1460,Wiper Washer Pump Motor Relay Coil Circuit Short To Battery
+1461,Wiper Washer Pump Motor Relay Coil Circuit Short To Ground
+1462,Seat Belt Switch Circuit Failure
+1463,Seat Belt Switch Circuit Open
+1464,Seat Belt Switch Circuit Short To Battery
+1465,Wiper Brake/Run Relay Circuit Open
+1466,Wiper Hi/Low Speed Not Switching
+1467,Wiper Hi/Low Speed Circuit Motor Short To Battery
+1468,Chime Input Request Circuit Failure
+1469,Chime Input Request Circuit Open
+1470,Lamp Headlamp Input Circuit Failure
+1471,Lamp Headlamp Input Circuit Open
+1472,Lamp Headlamp Input Circuit Short To Ground
+1473,Wiper Low Speed Circuit Motor Failure
+1474,Battery Saver Power Relay Circuit Short To Battery
+1475,Accessory Delay Relay Contact Short To Battery
+1476,Wiper High Speed Circuit Motor Failure
+1477,Wiper Hi/Low Circuit Motor Short To Ground
+1478,Power Window One Touch Up/Down Activated Simultaneously
+1479,Wiper Washer Fluid Level Sensor Circuit Failure
+1480,Wiper Washer Fluid Level Sensor Circuit Open
+1481,Wiper Washer Fluid Level Sensor Circuit Short To Battery
+1482,Wiper Washer Fluid Level Sensor Circuit Short To Ground
+1483,Brake Pedal Input Circuit Failure
+1484,Brake Pedal Input Open Circuit
+1485,Brake Pedal Input Circuit Battery Short
+1486,Brake Pedal Input Circuit Ground Short
+1487,Door Handle Right Front Circuit Failure
+1488,Door Handle Right Front Circuit Open
+1489,Door Handle Right Front Short To Battery
+1490,Door Handle Right Front Short To Ground
+1491,Ignition Cylinder Sensor Circuit Failure
+1492,Ignition Cylinder Sensor Open Circuit
+1493,Ignition Cylinder Sensor Battery Short
+1494,Ignition Cylinder Sensor Ground Short
+1495,Decklid Punch-Out Sensor Circuit Failure
+1496,Decklid Punch-Out Sensor Open Circuit
+1497,Decklid Punch-Out Sensor Battery Short
+1498,Decklid Punch-Out Sensor Ground Short
+1499,Lamp Turn Signal Left Circuit Failure
+1500,Lamp Turn Signal Left Circuit Open
+1501,Lamp Turn Signal Left Circuit Short To Battery
+1502,Lamp Turn Signal Left Circuit Short To Ground
+1503,Lamp Turn Signal Right Circuit Failure
+1504,Lamp Turn Signal Right Circuit Open
+1505,Lamp Turn Signal Right Circuit Short To Battery
+1506,Lamp Turn Signal Right Circuit Short To Ground
+1507,Flash To Pass Switch Circuit Failure
+1508,Flash To Pass Switch Circuit Open
+1509,Flash To Pass Switch Circuit Short To Battery
+1510,Flash To Pass Switch Circuit Short To Ground
+1511,Driver Door Handle  Circuit Failure
+1512,Driver Door Handle  Circuit Open
+1513,Driver Door Handle  Circuit Short To Battery
+1514,Driver Door Handle  Circuit Short To Ground
+1515,Seat Driver Occupied Switch Circuit Failure
+1516,Seat Driver Occupied Switch Circuit Open
+1517,Seat Driver Occupied Switch Circuit Short To Battery
+1518,Seat Driver Occupied Switch Circuit Short To Ground
+1519,Hood Switch Circuit Failure
+1520,Hood Switch Circuit Open
+1521,Hood Switch Circuit Short To Battery
+1522,Hood Switch Circuit Short To Ground
+1523,Keyless Entry Circuit Failure
+1524,Keyless Entry Circuit Open
+1525,Keyless Entry Circuit Short To Battery
+1526,Keyless Entry Circuit Short To Ground
+1527,Memory Set Switch Circuit Failure
+1528,Memory Set Switch Circuit Open
+1529,Memory Set Switch Circuit Short To Battery
+1530,Memory Set Switch Circuit Short To Ground
+1531,Memory 1 Switch Circuit Failure
+1532,Memory 1 Switch Circuit Open
+1533,Memory 1 Switch Circuit Short To Battery
+1534,Memory 1 Switch Circuit Short To Ground
+1535,Memory 2 Switch Circuit Failure
+1536,Memory 2 Switch Circuit Open
+1537,Memory 2 Switch Circuit Short To Battery
+1538,Memory 2 Switch Circuit Short To Ground
+1539,Mirror Driver Switch Assembly Circuit Failure
+1540,Mirror Driver Switch Assembly Circuit Open
+1541,Mirror Driver Switch Assembly Circuit Short To Battery
+1542,Mirror Driver Switch Assembly Circuit Short To Ground
+1543,Seat Direction Switch Assembly Circuit Failure
+1544,Seat Direction Switch Assembly Circuit Open
+1545,Seat Direction Switch Assembly Circuit Short To Battery
+1546,Seat Direction Switch Assembly Circuit Short To Ground
+1547,Power Window Master Circuit Failure
+1548,Power Window Master Circuit Open
+1549,Power Window Master Circuit Short To Battery
+1550,Power Window Master Circuit Short To Ground
+1551,Decklid Release Circuit Failure
+1552,Decklid Release Circuit Open
+1553,Decklid Release Circuit Short To Battery
+1554,Decklid Release Circuit Short To Ground
+1555,Ignition Run/Start Circuit Failure
+1556,Ignition Run/Start Circuit Open
+1557,Ignition Run/Start Circuit Short To Battery
+1558,Ignition Run/Start Circuit Short To Ground
+1559,Door Lock Cylinder Circuit Failure
+1560,Door Lock Cylinder Circuit Open
+1561,Door Lock Cylinder Circuit Short To Battery
+1562,Door Lock Cylinder Circuit Short To Ground
+1563,Door Ajar Circuit Failure
+1564,Door Ajar Circuit Open
+1565,Door Ajar Circuit Short To Battery
+1566,Door Ajar Circuit Short To Ground
+1567,Lamp Headlamp High-Beam Circuit Failure
+1568,Lamp Headlamp High-Beam Circuit Open
+1569,Lamp Headlamp High-Beam Circuit Short To Battery
+1570,Lamp Headlamp High-Beam Circuit Short To Ground
+1571,Door Ajar LR Circuit Failure
+1572,Door Ajar LR Circuit Open
+1573,Door Ajar LR Circuit  Short To Battery
+1574,Door Ajar LR Circuit Short To Ground
+1575,Lamp Park Input Circuit Failure
+1576,Lamp Park Input Circuit Open
+1577,Lamp Park Input Circuit Short To Battery
+1578,Lamp Park Input Circuit Short To Ground
+1579,Dim Panel Increase Input Circuit Failure
+1580,Dim Panel Increase Input Circuit Open
+1581,Dim Panel Increase Input Circuit Short To Battery
+1582,Dim Panel Increase Input Circuit Short To Ground
+1583,Dim Panel Decrease Input Circuit Failure
+1584,Dim Panel Decrease Input Circuit Open
+1585,Dim Panel Decrease Input Circuit Short To Battery
+1586,Dim Panel Decrease Input Circuit Short To Ground
+1587,Autolamp Delay Increase Circuit Failure
+1588,Autolamp Delay Increase Circuit Open
+1589,Autolamp Delay Increase Circuit Short To Battery
+1590,Autolamp Delay Increase Circuit Short To Ground
+1591,Autolamp Delay Decrease Circuit Failure
+1592,Autolamp Delay Decrease Circuit Open
+1593,Autolamp Delay Decrease Circuit Short To Battery
+1594,Autolamp Delay Decrease Circuit Short To Ground
+1595,Ignition Switch Illegal Input Code
+1596,Service Continuous Codes
+1600,PATS Ignition Key Transponder Signal Is Not Received
+1601,PATS Received Incorrect Key-Code From Ignition Key Transponder
+1602,PATS Received Invalid Format Of Key-Code From Ignition Key Transponder
+1603,Lamp Anti-Theft Indicator Circuit Failure
+1604,Lamp Anti-Theft Indicator Circuit Open
+1605,Lamp Anti-Theft Indicator Circuit Short To Battery
+1606,Lamp Anti-Theft Indicator Circuit Short To Ground
+1607,Illuminated Entry Input Circuit Failure
+1608,Illuminated Entry Input Open Circuit
+1609,Illuminated Entry Input Short Circuit To Battery
+1610,Illuminated Entry Input Short Circuit To Ground
+1611,Wiper Rear Mode Select Switch Circuit Failure
+1612,Wiper Rear Mode Select Switch Circuit Open
+1613,Wiper Rear Mode Select Switch Circuit Short To Battery
+1614,Wiper Rear Mode Select Switch Circuit Short To Ground
+1615,Wiper Rear Disable Switch Circuit Failure
+1616,Wiper Rear Disable Switch Circuit Open
+1617,Wiper Rear Disable Switch Circuit Short To Battery
+1618,Wiper Rear Disable Switch Circuit Short To Ground
+1619,Wiper Rear Low Limit Input Circuit Failure
+1620,Wiper Rear Low Limit Input Circuit Open
+1621,Wiper Rear Low Limit Input Circuit Short To Battery
+1622,Wiper Rear Low Limit Input Circuit Short To Ground
+1623,Lamp Keypad Output Circuit Failure
+1624,Lamp Keypad Output Open Circuit
+1625,Lamp Keypad Output Short Circuit To Battery
+1626,Lamp Keypad Output Short Circuit To Ground
+1627,PRNDL Reverse Input Circuit Failure
+1628,PRNDL Reverse Input Open Circuit
+1629,PRNDL Reverse Input Short To Battery
+1630,PRNDL Reverse Input Short Circuit To Ground
+1631,Mirror Driver Left Circuit Failure
+1632,Mirror Driver Left Circuit Open
+1633,Mirror Driver Left Circuit Short To Battery
+1634,Mirror Driver Left Circuit Short To Ground
+1635,Mirror Driver Right Circuit Failure
+1636,Mirror Driver Right Circuit Open
+1637,Mirror Driver Right Circuit Short To Battery
+1638,Mirror Driver Right Short To Ground
+1639,Mirror Passenger Left Circuit Failure
+1640,Mirror Passenger Left Circuit Open
+1641,Mirror Passenger Left Circuit Short To Battery
+1642,Mirror Passenger Left Circuit Short To Ground
+1643,Mirror Passenger Right Circuit Failure
+1644,Mirror Passenger Right Circuit Open
+1645,Mirror Passenger Right Circuit Short To Battery
+1646,Mirror Passenger Right Circuit Short To Ground
+1647,Seat Driver Recline Forward Circuit Failure
+1648,Seat Driver Recline Forward Circuit Open
+1649,Seat Driver Recline Forward Circuit Short To Battery
+1650,Seat Driver Recline Forward Circuit Short To Ground
+1651,Seat Driver Recline Backward Circuit Failure
+1652,Seat Driver Recline Backward Circuit Open
+1653,Seat Driver Recline Backward Circuit Short To Battery
+1654,Seat Driver Recline Backward Circuit Short To Ground
+1655,Seat Driver Rear Up  Circuit Failure
+1656,Seat Driver Rear Up Circuit Open
+1657,Seat Driver Rear Up Circuit Short To Battery
+1658,Seat Driver Rear Up Circuit Short To Ground
+1659,Seat Driver Front Up Circuit Failure
+1660,Seat Driver Front Up Circuit Open
+1661,Seat Driver Front Up Circuit Short To Battery
+1662,Seat Driver Front Up Circuit Short To Ground
+1663,Seat Driver Front Up/Down Motor Stalled
+1664,Seat Driver Rear Up/Down Motor Stalled
+1665,Seat Driver Forward/Backward Motor Stalled
+1666,Seat Driver Recline Motor Stalled
+1667,Mirror Driver Up/Down Motor Stalled
+1668,Mirror Driver Right/Left Motor Stalled
+1669,Mirror Passenger Up/Down Motor Stalled
+1670,Mirror Passenger Right/Left Motor Stalled
+1671,Battery Module Voltage Out Of Range
+1672,Seat Driver Occupied Input Circuit Failure
+1673,Seat Driver Occupied Input Circuit Open
+1674,Seat Driver Occupied Input Circuit Short To Battery
+1675,Seat Driver Occupied Input Circuit Short To Ground
+1676,Battery Pack Voltage Out Of Range
+1677,Alarm Panic Input Circuit Failure
+1678,Alarm Panic Input Circuit Open
+1679,Alarm Panic Input Circuit Short To Battery
+1680,Alarm Panic Input Circuit Short To Ground
+1681,PATS Transceiver Module Signal Is Not Received
+1682,PATS Is Disabled (Check Link Between PATS And Transponder)
+1683,Mirror Driver/Passenger Switch Circuit Failure
+1684,Mirror Driver/Passenger Switch Circuit Open
+1685,Lamp Dome Input Circuit Failure
+1686,Lamp Dome Input Circuit Open
+1687,Lamp Dome Input Circuit Short To Battery
+1688,Lamp Dome Input Circuit Short To Ground
+1689,Autolamp Delay Circuit Failure
+1690,Autolamp Delay Circuit Open
+1691,Autolamp Delay Circuit Short To Battery
+1692,Autolamp Delay Circuit Short To Ground
+1693,Autolamp On Circuit Failure
+1694,Autolamp On Circuit Open
+1695,Autolamp On Circuit Short To Battery
+1696,Autolamp On Circuit Short To Ground
+1697,Mirror Driver/Passenger Switch Circuit Short To Battery
+1698,Mirror Driver/Passenger Switch Circuit Short To Ground
+1701,Seat Driver Recline Forward Switch Circuit Failure
+1702,Seat Driver Recline Forward Switch Circuit Open
+1703,Seat Driver Recline Forward Switch Circuit Short To Battery
+1704,Seat Driver Recline Forward Switch Circuit Short To Ground
+1705,Seat Driver Recline Rearward Switch Circuit Failure
+1706,Seat Driver Recline Rearward Switch Circuit Open
+1707,Seat Driver Recline Rearward Switch Circuit Short To Battery
+1708,Seat Driver Recline Rearward Switch Circuit Short To Ground
+1709,Seat Driver Front Up Switch Circuit Failure
+1710,Seat Driver Front Up Switch Circuit Open
+1711,Seat Driver Front Up Switch Circuit Short To Battery
+1712,Seat Driver Front Up Switch Circuit Short To Ground
+1713,Seat Driver Front Down Switch Circuit Failure
+1714,Seat Driver Front Down Switch Circuit Open
+1715,Seat Driver Front Down Switch Circuit Short To Battery
+1716,Seat Driver Front Down Switch Circuit Short To Ground
+1717,Seat Driver Forward Switch Circuit Failure
+1718,Seat Driver Forward Switch Circuit Open
+1719,Seat Driver Forward Switch Circuit Short To Battery
+1720,Seat Driver Forward Switch Circuit Short To Ground
+1721,Seat Driver Rearward Switch Circuit Failure
+1722,Seat Driver Rearward Switch Circuit Open
+1723,Seat Driver Rearward Switch Circuit Short To Battery
+1724,Seat Driver Rearward Switch Circuit Short To Ground
+1725,Seat Driver Rear Up Switch Circuit Failure
+1726,Seat Driver Rear Up Switch Circuit Open
+1727,Seat Driver Rear Up Switch Circuit Short To Battery
+1728,Seat Driver Rear Up Switch Circuit Short To Ground
+1729,Seat Driver Rear Down Switch Circuit Failure
+1730,Seat Driver Rear Down Switch Circuit Open
+1731,Seat Driver Rear Down Switch Circuit Short To Battery
+1732,Seat Driver Rear Down Switch Circuit Short To Ground
+1733,Mirror Driver Vertical Switch Circuit Failure
+1734,Mirror Driver Vertical Switch Circuit Open
+1735,Mirror Driver Vertical Switch Circuit Short To Battery
+1736,Mirror Driver Vertical Switch Circuit Short To Ground
+1737,Mirror Driver Horizontal Switch Circuit Failure
+1738,Mirror Driver Horizontal Switch Circuit Open
+1739,Mirror Driver Horizontal Switch Circuit Short To Battery
+1740,Mirror Driver Horizontal Switch Circuit Short To Ground
+1741,Mirror Passenger Vertical Switch Circuit Failure
+1742,Mirror Passenger Vertical Switch Circuit Open
+1743,Mirror Passenger Vertical Switch Circuit Short To Battery
+1744,Mirror Passenger Vertical Switch Circuit Short To Ground
+1745,Mirror Passenger Horizontal Switch Circuit Failure
+1746,Mirror Passenger Horizontal Switch Circuit Open
+1747,Mirror Passenger Horizontal Switch Circuit Short To Battery
+1748,Mirror Passenger Horizontal Switch Circuit Short To Ground
+1749,Park/Neutral Switch Circuit Failure
+1750,Park/Neutral Switch Circuit Open
+1751,Park/Neutral Switch Circuit Short To Battery
+1752,Park/Neutral Switch Circuit Short To Ground
+1753,Hazard Flash Output Circuit Failure
+1754,Hazard Flash Output Circuit Open
+1755,Hazard Flash Output Circuit Short Battery
+1756,Hazard Flash Output Circuit Short To Ground
+1757,Seat Driver Rear Down  Circuit Failure
+1758,Seat Driver Rear Down Circuit Open
+1759,Seat Driver Rear Down Circuit Short To Battery
+1760,Seat Driver Rear Down Circuit Short To Ground
+1761,Seat Driver Front Down  Circuit Failure
+1762,Seat Driver Front Down Circuit Open
+1763,Seat Driver Front Down Circuit Short To Battery
+1764,Seat Driver Front Down Circuit Short To Ground
+1765,Seat Driver Forward Circuit Failure
+1766,Seat Driver Forward Circuit Open
+1767,Seat Driver Forward Circuit Short To Battery
+1768,Seat Driver Forward Circuit Short To Ground
+1769,Seat Driver Backward Circuit Failure
+1770,Seat Driver Backward Circuit Open
+1771,Seat Driver Backward Circuit Short To Battery
+1772,Seat Driver Backward Circuit Short To Ground
+1773,Mirror Driver Up Circuit Failure
+1774,Mirror Driver Up Circuit Open
+1775,Mirror Driver Up Circuit Short To Battery
+1776,Mirror Driver Up Circuit Short To Ground
+1778,Mirror Driver Down Circuit Failure
+1779,Mirror Driver Down Circuit Open
+1780,Mirror Driver Down Circuit Short To Battery
+1781,Mirror Driver Down Short To Ground
+1782,Mirror Passenger Up Circuit Failure
+1783,Mirror Passenger Up Circuit Open
+1784,Mirror Passenger Up Circuit Short To Battery
+1785,Mirror Passenger Up Circuit Short To Ground
+1786,Mirror Passenger Down Circuit Failure
+1787,Mirror Passenger Down Circuit Open
+1788,Mirror Passenger Down Circuit Short To Battery
+1789,Mirror Passenger Down Circuit Short To Ground
+1790,Autolamp Sensor Input Circuit Failure
+1791,Autolamp Sensor Input Circuit Open
+1792,Autolamp Sensor Input Circuit Short To Battery
+1793,Autolamp Sensor Input Circuit Short To Ground
+1794,Lamp Headlamp Low-Beam Circuit Failure
+1795,Lamp Headlamp Low-Beam Circuit Open
+1796,Lamp Headlamp Low-Beam Circuit Short To Battery
+1797,Lamp Headlamp Low-Beam Circuit Short To Ground
+1798,Lamp Turn Signal Front Output Circuit Failure
+1799,Lamp Turn Signal Front Output Circuit Open
+1800,Lamp Turn Signal Front Output Circuit Short To Battery
+1801,Lamp Turn Signal Front Output Circuit Short To Ground
+1802,Lamp Turn Signal Rear Output Circuit Failure
+1803,Lamp Turn Signal Rear Output Circuit Open
+1804,Lamp Turn Signal Rear Output Circuit Short To Battery
+1805,Lamp Turn Signal Rear Output Circuit Short To Ground
+1806,Lamp Tail Output Circuit Failure
+1807,Lamp Tail Output Circuit Open
+1808,Lamp Tail Output Circuit Short To Battery
+1809,Lamp Tail Output Circuit Short To Ground
+1810,Lamp Backup Switch Input Circuit Failure
+1811,Lamp Backup Switch Input Circuit Open
+1812,Lamp Backup Switch Input Circuit Short To Battery
+1813,Lamp Backup Switch Input Circuit Short To Ground
+1814,Wiper Rear Motor Down Relay Coil Circuit Failure
+1815,Wiper Rear Motor Down Relay Coil Circuit Open
+1816,Wiper Rear Motor Down Relay Coil Circuit Short To Battery
+1817,Wiper Rear Motor Down Relay Coil Circuit Short To Ground
+1818,Wiper Rear Motor Up Relay Coil Circuit Failure
+1819,Wiper Rear Motor Up Relay Coil Circuit Open
+1820,Wiper Rear Motor Up Relay Coil Circuit Short To Battery
+1821,Wiper Rear Motor Up Relay Coil Circuit Short To Ground
+1822,Wiper Rear Park Sense Input Circuit Failure
+1823,Wiper Rear Park Sense Input Circuit Open
+1824,Wiper Rear Park Sense Input Circuit Short To Battery
+1825,Wiper Rear Park Sense Input Circuit Short To Ground
+1826,Wiper Rear High Limit Input Circuit Failure
+1827,Wiper Rear High Limit Input Circuit Open
+1828,Wiper Rear High Limit Input Circuit Short To Battery
+1829,Wiper Rear High Limit Input Circuit Short To Ground
+1830,Door Unlock Disarm Switch Circuit Failure
+1831,Door Unlock Disarm Switch Circuit Open
+1832,Door Unlock Disarm Switch Circuit Short To Battery
+1833,Door Unlock Disarm Switch Circuit Short To Ground
+1834,Door Unlock Disarm Output Circuit Failure
+1835,Door Unlock Disarm Output Circuit Open
+1836,Door Unlock Disarm Output Circuit Short To Battery
+1837,Door Unlock Disarm Output Circuit Short To Ground
+1838,Battery Saver Power Relay Circuit Failure
+1839,Wiper Rear Motor Circuit Failure
+1840,Wiper Front Power Circuit Failure
+1841,Wiper Front Power Circuit Open
+1842,Wiper Front Power Circuit Short To Battery
+1843,Wiper Front Power Circuit Short To Ground
+1844,Phone Handset Circuit Failure
+1845,Ignition Tamper Circuit Failure
+1846,Ignition Tamper Circuit Open
+1847,Ignition Tamper Circuit Short To Battery
+1848,Ignition Tamper Circuit Short To Ground
+1849,Climate Control Temperature Differential Circuit Failure
+1850,Climate Control Temperature Differential Circuit Open
+1851,Climate Control Temperature Differential Circuit Short To Battery
+1852,Climate Control Temperature Differential Circuit Short To Ground
+1853,Climate Control Air Temperature Internal Sensor Motor Circuit Failure
+1854,Climate Control Air Temperature Internal Sensor Motor Circuit Open
+1855,Climate Control Air Temperature Internal Sensor Motor Circuit Short To Battery
+1856,Climate Control Air Temperature Internal Sensor Motor Circuit Short To Ground
+1857,Climate Control On/Off Switch Circuit Failure
+1858,Climate Control A/C Pressure Switch Circuit Failure
+1859,Climate Control A/C Pressure Switch Circuit Open
+1860,Climate Control A/C Pressure Switch Circuit Short To Battery
+1861,Climate Control A/C Pressure Switch Circuit Short To Ground
+1862,Climate Control A/C Lock Sensor Failure
+1863,Ground ECU Circuit Open
+1864,Battery Power Supply ECU Circuit Failure
+1865,Battery Power Supply ECU Circuit Open
+1866,Battery Power Supply ECU Circuit Short To Battery
+1867,Battery Power Supply ECU Circuit Short To Ground
+1868,Lamp Air Bag Warning Indicator Circuit Failure
+1869,Lamp Air Bag Warning Indicator Circuit Open
+1870,Lamp Air Bag Warning Indicator Circuit Short To Battery
+1871,Passenger Air Bag Disable Module Fault
+1872,Turn Signal / Hazard Power Feed Circuit Short To Battery
+1873,Turn Signal / Hazard Power Feed Circuit Short To Ground
+1874,Cellular Phone Handset Not Present
+1875,Turn Signal / Hazard Switch Signal Circuit Failure
+1876,Seatbelt Driver Pretensioner Circuit Failure
+1877,Seatbelt Driver Pretensioner Circuit Open
+1878,Seatbelt Driver Pretensioner Circuit Short to Battery
+1879,Seatbelt Driver Pretensioner Circuit Short to Ground
+1880,Seatbelt Passenger Pretensioner Circuit Failure
+1881,Seatbelt Passenger Pretensioner Circuit Open
+1882,Seatbelt Passenger Pretensioner Circuit Short to Battery
+1883,Seatbelt Passenger Pretensioner Circuit Short to Ground
+1884,PAD Warning Lamp Inoperative
+1885,Seatbelt Driver Pretensioner Circuit Resistance Low on Squib
+1886,Seatbelt Passenger Pretensioner Circuit Resistance Low on Squib
+1887,Air Bag Driver Circuit Resistance Low or Shorted Together
+1888,Air Bag Passenger Circuit Resistance Low or Shorted Together
+1889,Passenger Airbag Disable Module Sensor Obstructed
+1890,PAD Warning Lamp Circuit Short to Battery
+1891,Air Bag Tone Warning Indicator Circuit Short to Battery
+1892,Air Bag Tone Warning Indicator Circuit Failure
+1893,GPS Antenna Open Circuit
+1894,Wiper Rear Motor Speed Sense Circuit Failure
+1897,Horn Switch Circuit Failure
+1898,Chime Input #2 Circuit Short to Ground
+1899,Microphone Input Signal Circuit Open
+1900,Driver Side Airbag Fault
+1901,Air Bag Crash Sensor #1 Feed/Return Circuit Short To Ground
+1902,Air Bag Crash Sensor #1 Ground Circuit Failure
+1903,Air Bag Crash Sensor #1 Ground Circuit Short To Battery
+1904,Air Bag Crash Sensor #2 Feed/Return Circuit Failure
+1905,Air Bag Crash Sensor #2 Feed/Return Circuit Short To Battery
+1906,Air Bag Crash Sensor #2 Feed/Return Circuit Short To Ground
+1907,Air Bag Crash Sensor #2 Ground Circuit Failure
+1908,Air Bag Crash Sensor #2 Ground Circuit Short To Battery
+1909,Air Bag Crash Sensor #2 Ground Circuit Short To Ground
+1910,Air Bag Diagnostic Monitor Ground Circuit Failure
+1911,Air Bag Diagnostic Monitor Ground Circuit Short To Battery
+1912,Air Bag Diagnostic Monitor Ground Circuit Short To Ground
+1913,Air Bag Driver/Passenger Circuit Short To Ground
+1914,Air Bag Crash Sensors #1 / #2  Circuit Short To Ground
+1915,Air Bag Driver Circuit Failure
+1916,Air Bag Driver Circuit Short To Battery
+1917,Air Bag Memory Clear Circuit Failure
+1918,Air Bag Memory Clear Circuit Open
+1919,Air Bag Memory Clear Circuit Short To Battery
+1920,Air Bag Passenger Circuit Failure
+1921,Air Bag Diagnostic Monitor Ground Circuit Open
+1922,Air Bag Safing Sensor Output Circuit Short To Battery
+1923,Air Bag Memory Clear Circuit Short To Ground
+1924,Air Bag Internal Diagnostic Monitor Fault or System Disarm Fault
+1925,Air Bag Passenger Circuit Short To Battery
+1926,Air Bag Passenger Pressure Switch Circuit Failure
+1927,Passenger Side Airbag Fault
+1928,Air Bag Safing Sensor Output Circuit Failure
+1929,Air Bag Safing Sensor Output Circuit Open
+1930,Air Bag Safing Sensor Output Circuit Short To Ground
+1931,Air Bag Crash Sensor #1 Feed/Return Circuit Failure
+1932,Air Bag Driver Circuit Open
+1933,Air Bag Passenger Circuit Open
+1934,Air Bag Driver Inflator Circuit Resistance Low on Squib
+1935,Air Bag Passenger Inflator Circuit Resistance Low on Squib
+1936,Air Bag Driver Circuit Short To Ground
+1937,Air Bag Passenger Pressure Switch Circuit Open
+1938,Air Bag Passenger Circuit Short To Ground
+1939,Air Bag Passenger Pressure Switch Circuit Short To Ground
+1941,Air Bag Crash Sensor #1 Feed/Return Circuit Open
+1942,Air Bag Crash Sensor #2 Feed/Return Circuit Open
+1943,Air Bag Crash Sensor #1 Ground Circuit Short To Ground
+1944,Air Bag Crash Sensor #1 Ground Circuit Open
+1945,Air Bag Crash Sensor #2 Ground Circuit Open
+1946,Climate Control A/C Post Evaporator Sensor Circuit Failure
+1947,Climate Control A/C Post Evaporator Sensor Circuit Short To Ground
+1948,Climate Control Water Temperature Sensor Circuit Failure
+1949,Climate Control Water Temperature Sensor Circuit Short To Ground
+1950,Seat Rear Up/Down Potentiometer Feedback Circuit Failure
+1951,Seat Rear Up/Down Potentiometer Feedback Circuit Open
+1952,Seat Rear Up/Down Potentiometer Feedback Circuit Short To Battery
+1953,Seat Rear Up/Down Potentiometer Feedback Circuit Short To Ground
+1954,Seat Front Up/Down Potentiometer Feedback Circuit Failure
+1955,Seat Front Up/Down Potentiometer Feedback Circuit Open
+1956,Seat Front Up/Down Potentiometer Feedback Circuit Short To Battery
+1957,Seat Front Up/Down Potentiometer Feedback Circuit Short To Ground
+1958,Seat Recline Forward/Backward Potentiometer Feedback Circuit Failure
+1959,Seat Recline Forward/Backward Potentiometer Feedback Circuit Open
+1960,Seat Recline Forward/Backward Potentiometer Feedback Circuit Short To Battery
+1961,Seat Recline Forward/Backward Potentiometer Feedback Circuit Short To Ground
+1962,Seat Horizontal Forward/Rearward Potentiometer Feedback Circuit Failure
+1963,Seat Horizontal Forward/Rearward Potentiometer Feedback Circuit Open
+1964,Seat Horizontal Forward/Rearward Potentiometer Feedback Circuit Short To Battery
+1965,Seat Horizontal Forward/Rearward Potentiometer Feedback Circuit Short To Ground
+1966,A/C Post Heater Sensor Circuit Failure
+1967,A/C Post Heater Sensor Circuit Short To Ground
+1968,A/C Water Pump Detection Circuit Failure
+1969,A/C Clutch Magnetic Control Circuit Failure
+1970,Passenger Seatback Forward Switch Circuit Short to Ground
+1971,Passenger Seatback Rearward Switch Circuit Short to Ground
+1972,Passenger Rear Seat Up Switch Circuit Short to Battery
+1973,Passenger Rear Seat Down Switch Circuit Short to Battery
+1979,Passenger Seat Rearward Switch Circuit Short to Battery
+1980,Bulb - Outage Condition Detected
+1981,Memory Off Switch Circuit Short to Battery
+1984,Seat Switch Lumbar Inflate Circuit Failure
+1985,Seat Switch Lumbar Deflate Circuit Failure
+1987,Pedal Forward / Rearward Motor Stalled
+1988,Pedal Position Forward Switch Circuit Short to Battery
+1989,Pedal Position Rearward Switch Circuit Short to Battery
+1990,Pedal Forward / Rearward Potentiometer Feedback Circuit Failure
+1991,Pedal Forward / Rearward Potentiometer Feedback Circuit Short to Battery
+1992,Driver Side
+1993,Driver Side
+1994,Driver Side
+1995,Driver Side
+1996,Passenger Side
+1997,Passenger Side
+1998,Passenger Side
+1999,Passenger Side
+2100,Door Driver Key Cylinder Switch Failure
+2101,Head Rest Switch Circuit Failure
+2102,Antenna Circuit Short to Ground
+2103,Antenna Not Connected
+2104,Door Passenger Key Cylinder Switch Failure
+2105,Throttle Position Input Out of Range Low
+2106,Throttle Position Input Out of Range High
+2107,Front Wiper Motor Relay Circuit Short to Vbatt
+2108,Trunk Key Cylinder Switch Failure
+2109,Heated Wind Shield Relay Short to Vbatt (changed from Failure 2/6/97)
+2110,Front Wiper Motor Relay Circuit Open (changed from Failure 2/6/97)
+2111,All Door Lock Input Short to Ground
+2112,Door Driver Set Switch Stuck Failure
+2113,Heated Windshield Input Short to Ground
+2114,Front Washer Input Short to Ground
+2115,Rear Washer Input Short to Ground
+2116,Door Driver Reset Switch Stuck Failure
+2117,Driver Side
+2118,Passenger Side
+2119,Compressor Failure
+2120,Door Passenger Set Switch Stuck Failure
+2122,Driver Side Satellite Communication Circuit Short to Ground
+2123,Passenger Side Satellite Communication Circuit Short to Ground
+2124,Door Passenger Reset Switch Stuck Failure
+2128,Central Lock Motor Failure
+2129,Central Lock Feedback Failure
+2130,Double Lock Timeout Failure
+2131,Double Lock Feedback Failure
+2132,Dimmer switch Circuit Short to Gnd
+2133,Brake Motor Warning lamp Circuit Failure
+2134,Brake Motor Warning lamp Circuit Short to Vbatt
+2135,Park Brake Applied Warning Lamp Circuit Failure
+2136,Park Brake Applied Warning Lamp Circuit Short To Battery
+2139,Data Mismatch (receive data does not match what was expected)
+2141,NVM Configuration Failure
+2142,NVM TIC Failure
+2143,NVM Memory Failure
+2144,NVM Alarm Data Failure
+2145,NVM RF HR Failure
+2146,Seat Recline Motor Position Out of Range
+2148,PWM Input Circuit Failure
+2149,Seat Front Vertical Motor Position Out of Range
+2150,Power Supply #1 Circuit Short to Ground
+2151,Power Supply #2 Circuit Short to Ground
+2152,Seat Rear Vertical Motor Position Out of Range
+2153,Rear Echo Sensor Circuit Failure
+2154,Front Echo Sensor Circuit Failure
+2155,Seat Horizontal Motor Position Out of Range
+2156,Rear Doppler Sensor Circuit Failure
+2157,Front Doppler Sensor Circuit Failure
+2158,Seat Recline Motor Memory Position Out of Range
+2159,Memory #1 output Short to Ground
+2160,Memory #1 output Short to VBatt
+2161,Seat Front Vertical Motor Memory Position Out of Range
+2162,Data Mismatch #2 (receive data does not match what was expected)
+2163,Clutch Position Fault
+2164,Seat Rear Vertical Motor Memory Position Out of Range
+2165,Gear shift position Fault
+2166,Gear select position Fault
+2167,Seat Horizontal Motor Memory Position Out of Range
+2168,Unable to confirm Unlock Condition
+2169,Unable to confirm lock Condition
+2170,Steering Column Lock Switch Circuit Failure
+2172,Inertia Switch input Circuit Open
+2174,Window Driver Rear Remote Up Switch Short to Battery
+2175,A/C Request Signal Circuit Short to Ground
+2176,Overdrive switch circuit short to Vbatt
+2177,Interior Scanning Sensor Circuit Failure
+2178,Window Driver Rear Remote Down Switch Short to Battery
+2179,"Front Wiper Select Switch ""A"" Short to Ground"
+2180,"Front Wiper Select Switch ""B"" Short to Ground"
+2181,"Front Wiper Select Switch ""C"" Short to Ground"
+2182,Window Passenger Front Remote Up Switch Short to Battery
+2183,"Front Wiper Select Switch ""H"" Short to Ground"
+2184,"Front Wiper Select Switch ""W"" Short to Ground"
+2185,"Rear Wiper Select Switch ""D"" Short to Ground"
+2186,Window Passenger Front Remote Down Switch Short to Battery
+2187,"Rear Wiper Select Switch ""B"" Short to Ground"
+2188,"Rear Wiper Select Switch ""E"" Short to Ground"
+2190,Window Passenger Rear Remote Up Switch Short to Battery
+2194,Window Passenger Rear Remote Down Switch Short to Battery
+2195,Driver Window  Up / Down Power Circuit Short to Ground
+2196,Passenger Window Up / Down Power Circuit Short to Ground
+2197,TV Module Error
+2198,TrafficMaster Module Error
+2199,VICS Module Error
+2200,No Communication to TV Module (No Fitting of TV)
+2201,No Communication With Traffic MasterModule
+2202,No Communication to VICS Module (No Fitting of VICS)
+2203,CD-ROM Error
+2204,GPS Antenna Connection Open or Short
+2205,GPS Receiver Error
+2206,Gyroscope Error
+2207,ECU ROM Checksum Error
+2208,Communication Link to Display and Switch Module Error
+2209,Interior Lamp Override Switch Open Circuit
+2210,Interior Lamp Override Switch Short to Ground
+2211,Low Coolant Lamp Output Circuit Short to Battery
+2214,Window Passenger Front Up Switch Short to Battery
+2215,Window Passenger Front Down Switch Short to Battery
+2219,Window Driver Front Current Feedback Exceeded
+2220,Window Driver Rear Current Feedback Exceeded
+2221,Window Passenger Front Current Feedback Exceeded
+2222,Window Passenger Rear Current Feedback Exceeded
+2223,Mirror Driver Drive Circuit Failure
+2224,Mirror Passenger Drive Circuit Failure
+2225,Front Crash Sensor Mount Fault
+2226,Front Crash Sensor Internal Fault
+2227,Front Crash Sensor Driver Communications Fault
+2228,Air Bag Driver Circuit Short to Ground - Loop #2
+2229,Air Bag Passenger Circuit Short to Ground - Loop #2
+2230,Air Bag Driver Circuit Short to Battery - Loop #2
+2231,Air Bag Passenger Circuit Short to Battery - Loop #2
+2232,Air Bag Driver Circuit Open - Loop #2
+2233,Air Bag passenger Circuit Open - Loop #2
+2234,Air Bag Driver Inflator Circuit Resistance Low on Squib - Loop #2
+2235,Air Bag Passenger Inflator Circuit
+2236,Weak or Defected Electric Vehicle Battery Module Fault
+2237,Vehicle Signal indicating Park While VSS Present
+2238,Power Cable For Power Sliding Door Broken
+2239,Rear Cargo Door Set Switch Stuck (Short to Ground)
+2240,Rear Cargo Door Reset Switch Stuck (Short to Ground)
+2241,Rear Cargo Door Lock Circuit Short to Ground
+2242,Rear Cargo Door Unlock Circuit Open
+2243,Driver Rear Door Ajar Circuit Open
+2244,Driver Sliding Door Ajar Circuit Short to GND
+2245,Passenger Rear Door Ajar Circuit Open
+2246,Passenger Sliding Door Ajar Circuit Short to GND
+2247,EV Battery Pack Temperature Fault
+2248,Heated Windshield Relay Coil Circuit Failure
+2249,Head Lamp Relay Coil Short to Battery
+2250,All Doors Unlock Relay Circuit Failure
+2251,Parklamp Output Relay Driver Circuit Failure
+2252,Parklamp Output Relay Dirver Short to Battery
+2300,Seat Driver Memory Position Error
+2301,Seat Passenger Memory Position Error
+2302,Seat Headrest Feedback Potentiometer Circuit Failure
+2303,Seat Headrest Feedback Potentiometer Circuit Open
+2304,Seat Headrest Feedback Potentiometer Circuit Short to Battery
+2305,Seat Headrest Feedback Potentiometer Circuit Short to Ground
+2306,Seat Headrest Motor Stalled
+2310,Mirror Driver Memory Position Error
+2311,Mirror Passenger Memory Position Error
+2312,Mirror Passenger Horizontal Feedback Potentiometer Circuit Failure
+2313,Mirror Passenger Horizontal Feedback Potentiometer Circuit Open
+2314,Mirror Passenger Horizontal Feedback Potentiometer Circuit Short to Battery
+2315,Mirror Passenger Horizontal Feedback Potentiometer Circuit Short to Ground
+2316,Mirror Passenger Vertical Feedback Potentiometer Circuit Failure
+2317,Mirror Passenger Vertical Feedback Potentiometer Circuit Open
+2318,Mirror Passenger Vertical Feedback Potentiometer Circuit Short to Battery
+2319,Mirror Passenger Vertical Feedback Potentiometer Circuit Short to Ground
+2320,Mirror Driver Horizontal Feedback Potentiometer Circuit Failure
+2321,Mirror Driver Horizontal Feedback Potentiometer Circuit Open
+2322,Mirror Driver Horizontal Feedback Potentiometer Circuit Short to Battery
+2323,Mirror Driver Horizontal Feedback Potentiometer Circuit Short to Ground
+2324,Mirror Driver Vertical Feedback Potentiometer Circuit Failure
+2325,Mirror Driver Vertical Feedback Potentiometer Circuit Open
+2326,Mirror Driver Vertical Feedback Potentiometer Circuit Short to Battery
+2327,Mirror Driver Vertical Feedback Potentiometer Circuit Short to Ground
+2328,Column Reach Feedback Potentiometer Circuit Failure
+2329,Column Reach Feedback Potentiometer Circuit Open
+2330,Column Reach Feedback Potentiometer Circuit Short to Battery
+2331,Column Reach Feedback Potentiometer Circuit Short to Ground
+2332,Column Tilt Feedback Potentiometer Circuit Failure
+2333,Column Tilt Feedback Potentiometer Circuit Open
+2334,Column Tilt Feedback Potentiometer Circuit Short to Battery
+2335,Column Tilt Feedback Potentiometer Circuit Short to Ground
+2336,Mirror Switch Assembly Circuit Failure
+2337,Mirror Switch Assembly Circuit Open
+2338,Mirror Switch Assembly Circuit Short to Battery
+2339,Mirror Switch Assembly Circuit Short to Ground
+2340,Column Reach Motor Stalled
+2341,Column Tilt Motor Stalled
+2342,Seat Switch Reference Voltage Positive Common Open Circuit
+2343,Seat Switch Reference Voltage Positive Common Supply Low Voltage
+2344,Seat Switch Reference Voltage Positive Common Supply Voltage Fault
+2345,Seat Switch Reference Voltage Negative Common Open Circuit
+2346,Mirror Switch Reference Voltage Positive Common Open Circuit
+2347,Mirror Switch Reference Voltage Positive Common Supply Low Voltage
+2348,Mirror Switch Reference Voltage Positive Common Supply Voltage Fault
+2349,Mirror Switch Reference Voltage Negative Common Open Circuit
+2350,Steering Column Switch Circuit Short to Battery
+2351,Steering Column Switch Circuit Failure
+2352,Driver Memory Power Switch Indicator Circuit Short to Battery
+2353,Driver Mirror Power Driver Circuit Short Ground
+2354,Driver Mirror Horizontal / Vertical Feedback Potentiometer Circuit Open
+2355,Passenger Mirror Horizontal / Vertical Feedback Potentiometer Circuit Open
+2357,Driver Window Down Current Sense Low Circuit Failure
+2362,Remote Open/Close signal Circuit Short to Ground
+2363,Optical Sensor System Failure
+2364,Fuel Filler Door Circuit Open
+2365,B-pillar Power Sliding Door Open/Close Switch Input Ckt Short to Gnd
+2366,IP Power Sliding Door Open/Close switch Ckt Short to Gnd
+2367,Power Sliding Door Override Switch Input Ckt Short to Gnd
+2368,Steering Column Switch Circuit Out of Range
+2369,Chime OUTPUT Request Ckt Short to Ground
+2373,LED #1 Circuit Short to Battery
+2374,Power Sliding Detent (Latch) Circuit  Failure
+2380,Heater Coolant Temp sensor circuit Short to GND
+2381,Heater Coolant Temp sensor circuit Open
+2384,Audio Reverse Aid Mute Input Ckt Failure
+2385,Audio Navigation Mute Input Ckt  Failure
+2401,Audio Tape Deck Mechanism Fault
+2402,Audio CD/DJ Thermal Shutdown Fault
+2403,Audio CD/DJ Internal Fault
+2404,Audio Steering Wheel Switch Circuit Fault
+2405,Audio Single-Disc CD Player Thermal Shutdown Fault
+2406,Audio Single-Disc CD Player Internal Fault
+2416,Climate Control Recirculation Actuator Out of Limits
+2425,Remote Keyless Entry Out of Synchronization
+2426,Passenger Solar Radiation Sensor  Circuit Open
+2427,Passenger Solar Radiation Sensor  Circuit Short to Ground
+2428,A/C Post Heater Sensor #2 Circuit Failure
+2429,A/C Post Heater Sensor #2 Circuit Short to Ground
+2431,Transponder Programming Failed
+2432,Drivers Seat Belt Buckle Switch Circuit Open
+2433,Drivers Seat Belt Buckle Switch Circuit Short to Battery
+2434,Drivers Seat Belt Buckle Switch Circuit Short to Ground
+2435,Drivers Seat Belt Buckle Switch Resistance out of Range
+2436,Passengers Seat Belt Buckle Switch Circuit Open
+2437,Passengers Seat Belt Buckle Switch Circuit Short to Battery
+2438,Passengers Seat Belt Buckle Switch Circuit Short to Ground
+2439,Passengers Seat Belt Buckle Switch Resistance out of Range
+2440,Passenger Side
+2441,Driver Side
+2442,Intrusion Sensor Fault
+2443,Powertrain Performance Mode Switch Circuit failure
+2444,Driver Side Crash Sensor Internal Fault
+2445,Passenger Side Crash Sensor Internal Fault
+2446,RESCU/VEMS Input Circuit Open
+2447,RESCU/VEMS Input Circuit Short to Battery
+2448,RESCU/VEMS Input Circuit Short to Ground
+2449,Aux Heater Glow Plug Circuit Short to Ground
+2450,Aux Heater Glow Plug Circuit Open
+2451,Aux Heater Fuel Pump Circuit Short to Ground
+2452,Aux Heater Fuel Pump Circuit Open
+2453,Aux Heater Blower Fan Circuit Short to Ground
+2454,Aux Heater Blower Fan Circuit Open
+2455,Aux Heater Blower Faulted
+2456,Aux Heater Coolant Sensor Circuit Short to Ground
+2457,Aux Heater Coolant Sensor Circuit Open
+2458,Aux Heater Overheat Sensor Circuit Short to Ground
+2459,Aux Heater Overheat Sensor Circuit Open
+2460,Aux Heater Flame Sensor Circuit Short to Ground
+2461,Aux Heater Flame Sensor Circuit Open
+2462,Aux Heater Flame Out Fault
+2463,Aux Heater Overheat Fault
+2464,Aux Heater Start Time Exceeded
+2465,Aux Heater Start Counter Overrun/System Locked (same as below ?)
+2466,Aux Heater Overheat Counter Overrun/System Locked
+2467,Aux Heater Cool Down Time Exceeded (may be con to a453-5 )
+2468,Aux Heater Coolant Pump Circuit Short to Ground
+2469,Aux Heater Coolant Pump Circuit Open
+2470,Interior Fan Control Circuit Short to Ground
+2471,Interior Fan Control Circuit Open
+2472,Fog Lamp Switch  Failure
+2473,Passenger Door Disarm Switch ckt Short to Ground
+2474,Passenger Door Lock Switch Circuit Shorted to Ground
+2475,Passenger Door Unlock Switch Circuit Shorted to Ground
+2476,RADIO PRESENT SWITCH Ckt Failure
+2477,Module Configuration Failure
+2478,ANTI THEFT INPUT SIGNAL SHORT TO GROUND
+2479,BRAKE PARK SWITCH CIRCUIT SHORT TO GROUND
+2480,LF CORNER LAMP OUTPUT Ckt Short to Battery
+2481,Convertible Top Up/Down switch Fault
+2482,RF CORNER LAMP OUTPUT Ckt Short to Battery
+2483,Enable Signal Open Circuit
+2484,Disable Signal Short to Ground
+2485,LF SIDE REPEATER LAMP OUTPUT Ckt Short to Battery
+2487,RF SIDE REPEATER LAMP OUTPUT Ckt Short to Battery
+2489,UNDERHOOD LAMP OUTPUT CIRCUIT Failure
+2490,UNDERHOOD LAMP OUTPUT CIRCUIT Short to Battery
+2491,RF PARK LAMP OUTPUT CIRCUIT Short to Battery
+2492,Already Programmed (Test Mode DTC Only !!!)
+2493,LF PARK LAMP OUTPUT CIRCUIT Short to Battery
+2494,ANTI THEFT HORN OUTPUT CIRCUIT Short to Batt
+2495,ANTI THEFT HORN OUTPUT CIRCUIT Failure
+2496,ANTI THEFT HORN OUTPUT CIRCUIT Short to Gnd
+2499,COURTESY LAMP OUTPUT Failure
+2500,COURTESY LAMP OUTPUT Ckt Short to Battery
+2501,LF LAMP LOW BEAM CIRCUIT Failure
+2502,LF LAMP LOW BEAM CIRCUIT Short to Battery
+2503,RF LAMP LOW BEAM CIRCUIT Failure
+2504,RF LAMP LOW BEAM CIRCUIT Short to Battery
+2505,LF LAMP HIGH BEAM CIRCUIT Failure
+2506,LF LAMP HIGH BEAM CIRCUIT Short to Battery
+2507,RF LAMP HIGH BEAM CIRCUIT Failure
+2508,RF LAMP HIGH BEAM CIRCUIT Short to Battery
+2509,Rear Fog Lamp Switch Circuit Failure
+2510,Main Blower Motor Relay Circuit Short to Battery
+2511,Horn Output Relay Circuit Short to Battery
+2512,Front Fog Lamp Relay Ckt Short to Battery
+2513,Blower (Fan) Circuit Failure
+2514,Blower (Fan) Circuit Short to Vbatt
+2515,Heater Blower Relay Circuit Failure
+2516,Blower Control Circuit Failure
+2517,Emergency Power Off System Faulted
+2518,Compressor Overtemp Fault
+2519,High Mount Stop Lamp Circuit Failure
+2520,High Mount Stop Lamp Circuit Short to Battery
+2523,License Lamp Circuit Failure
+2524,License Lamp Circuit Short to Battery
+2525,Left Rear Backup Lamp Circuit Failure
+2526,Left Rear Backup Lamp Circuit Short to Battery
+2527,Left Rear Stop lamp Circuit Failure
+2528,Left Rear Stop lamp Circuit Short to Battery
+2529,Left Rear  Turn Lamp Circuit Failure
+2530,Left Rear  Turn Lamp Circuit Short to Battery
+2531,Right Rear Backup Lamp Circuit Failure
+2532,Right Rear Backup Lamp Circuit Short to Battery
+2533,Right Rear Stop lamp Circuit Failure
+2534,Right Rear Stop lamp Circuit Short to Battery
+2535,Right Rear  Turn Lamp Circuit Failure
+2536,Right Rear  Turn Lamp Circuit Short to Battery
+2539,Aux A/C Mode Position Reference Circuit Short to Ground
+2540,Aux A/C Mode Position Reference Circuit Short to Battery
+2543,Aux A/C Control Switch Reference Circuit Short to Ground
+2544,Aux A/C Control Switch Reference Circuit Short to Battery
+2545,System Power Relay Circuit Short to Battery
+2546,System Power Relay Circuit Failure
+2550,LAMP DOME OUTPUT Circuit Short to Ground
+2553,Disable Signal Output Circuit Short to Battery
+2554,LAMP DOME OUTPUT Circuit Failure
+2555,LAMP DOME OUTPUT Circuit Short to Battery
+2556,Enable Signal  Circuit Short to Battery
+2557,Left Power Sliding Door Open/Close Output Circuit Short to Battery
+2558,Right Power Sliding Door Open/Close Output Circuit Short to Battery
+2559,Aux A/C Blower Motor Relay Circuit Short to Battery
+2560,Aux A/C Blower Motor Relay Circuit Short to Ground
+2561,Aux A/C Blower Speed 1 Circuit Failure
+2562,Aux A/C Blower Speed 1 Circuit Short to Ground
+2563,Aux A/C Blower Speed 2 Circuit Failure
+2564,Aux A/C Blower Speed 2 Circuit Short to Ground
+2565,Right Tail Lamp Circuit Failure
+2566,Right Tail Lamp Circuit Short to Ground
+2567,Reverse Mirror Output Circuit Failure
+2568,Reverse Mirror Output Circuit Short to Ground
+2569,Liftgate Disarm Switch Circuit Short to Ground
+2570,Right Lamp Outage Signal Circuit Short to Ground
+2571,Left Lamp Outage Signal Circuit Short to Ground
+2580,Aux Blower Sense Switch Circuit Failure
+2581,Passenger Seat Occupant Detection Circuit Short To Ground
+2582,Passenger Seat Occupant Detection Circuit Open
+2583,Child Seat Detection Circuit Short to Ground
+2584,Child Seat Detection Circuit Open
+2585,Anti Theft Input Signal Circuit Short To Battery
+2586,Headlamp Mode Select Circuit Failure
+2587,Passenger Seat Occupant Detection Circuit Short To Battery
+2588,Child Seat Detection Circuit Short To Battery
+2589,Unexpected Door Reversal During Close
+2590,Vehicle Park/Speed Signal Circuit Failure
+2591,Detent Signal Missing During Unlatch
+2592,PSD Not Fully Closed (Module Commanded Successfully)
+2593,Power Sliding Door Opened During Module Close Command
+2594,No Movement Detected After an Unlatch During Power Open
+2595,Anti Theft Input Signal Circuit Failure
+2596,Headlamp Aim Output Relay Circuit Short To Battery
+2597,Headlamp Aim Output Relay Circuit Failure
+2598,Headlamp Relay Circuit Failure
+2599,Tailgate Release Open Circuit
+2600,Double Locking Door Motor Frozen
+2601,No Latch Signal Sensed on Closing and Door Reversed
+2602,Missing Latch Signal During Power Sliding Door Unlatch
+2603,PSD Not Fully Closed During Self-Test
+2604,Power Sliding Door On/Off Switch Open Circuit
+2605,Disable Signal Open Circuit
+2606,A/C Temperature Sensor Out of Range
+1091,Speed Wheel Sensor All Coherency Failure
+1095,ABS Hydraulic Pump Motor Circuit Failure
+1096,ABS Hydraulic Pump Motor Circuit Open
+1097,ABS Hydraulic Pump Motor Circuit Short To Ground
+1098,ABS Hydraulic Pump Motor Circuit Short To Battery
+1100,ABS Pump Switch Circuit Failure
+1101,ABS Hydraulic Valve Circuit Failure
+1102,ABS Acceleration Switch Circuit Failure
+1103,ABS Hydraulic Brake Switch Circuit Failure
+1104,Traction Control Active Lamp - Circuit Short to Battery
+1105,Traction Control Disable Lamp - Circuit Short to Battery
+1106,Traction Control Disable Switch Circuit Short to Battery
+1107,ABS Function Enabled Input Circuit Failure
+1109,Speed Control Actuator Assembly Cable Release  Failure
+1110,ABS Power Relay Coil Circuit Failure
+1111,ABS Power Relay Coil Open Circuit
+1112,ABS Power Relay Coil Short Circuit To Ground
+1113,ABS Power Relay Coil Short Circuit To Battery
+1114,ABS Power Relay Output Short Circuit To Ground
+1115,ABS Power Relay Output Short Circuit To Battery
+1116,Starter Motor Circuit Failure
+1117,RPM Input Circuit Failure
+1123,Vehicle Speed Sensor Input Short to Battery
+1124,Input shaft speed signal missing/faulted
+1125,Brake Fluid Level Sensor Input Circuit Failure
+1126,Cruise Control Command Switch Assembly Circuit Failure
+1127,Cruise Control Deactivator Brake Switch Circuit Failure
+1132,Clutch position ckt short to ground
+1133,Clutch position ckt short to battery
+1134,Gear Shift position short to ground
+1135,Gear Shift position short to battery
+1136,Gear Select position short to ground
+1137,ECU is Defective
+1138,Gear Select position short to Battery
+1139,Wheel Speed Sensor Center Tone Ring Missing Tooth Fault
+1140,Hydraulic Base Brake Failure
+1141,Wheel Speed Sensor LF Tone Ring Tooth Missing Fault
+1142,Wheel Speed Sensor RF Tone Ring Tooth Missing Fault
+1143,Wheel Speed Sensor LR Tone Ring Tooth Missing Fault
+1144,Wheel Speed Sensor RR Tone Ring Tooth Missing Fault
+1145,Speed Wheel Sensor RF Input Circuit Failure
+1146,Speed Wheel Sensor RF Circuit Open
+1148,Speed Wheel Sensor RF Coherency Fault
+1149,Hydraulic Fluid Pressure/ Flow Circuit Failure
+1150,Two Speed Rear Axle Input Switch Circuit Short to Vbatt
+1155,Speed Wheel Sensor LF Input Circuit Failure
+1156,Speed Wheel Sensor LF Circuit Open
+1157,Park Brake Actuator Assembly Switch Applied Circuit Failure
+1158,Speed Wheel Sensor LF Coherency Fault
+1159,Hydraulic Fluid Pressure/ Flow Circuit Short to Gnd
+1161,Air Pressure Low Circuit Short to Gnd
+1162,Park Brake Switch # 2 Released Circuit Failure
+1163,Park Brake Switch # 2 Applied Circuit Short to Gnd
+1164,Park Brake Actuator Assembly Switch Circuit Failure
+1165,Speed Wheel Sensor RR Input Circuit Failure
+1166,Speed Wheel Sensor RR Input Open Circuit
+1167,Park Brake Actuator Assembly Switch Released Circuit Short to Gnd
+1168,Speed Wheel Sensor RR Coherency Fault
+1169,ABS Fluid Dumping Exceeds Maximum Timing
+1170,PRNDL  Switch Circuit Failure
+1172,Park Brake Switch # 1 Applied Circuit Failure
+1173,Park Brake Switch # 1 Released Circuit Short to Gnd
+1174,Park Brake Switch # 2 Applied Circuit Failure
+1175,Speed Wheel Sensor LR Input Circuit Failure
+1176,Speed Wheel Sensor LR Circuit Open
+1177,Park Brake Actuator Assembly Switch Released Circuit Failure
+1178,Speed Wheel Sensor LR Coherency Fault
+1179,Speed Control Actuator Assembly Cable Slack Failure
+1180,Park Brake Valve Solenoid #1 Sense Input Circuit Failure
+1181,Park Brake Valve Solenoid #1 Sense Input Circuit Short to Gound
+1182,Park Lamp Flash Relay Circuit Failure
+1183,Park Lamp Flash Relay Circuit Short to Battery
+1184,ABS System Is Not Operational
+1185,ABS Power Relay Output Circuit Failure
+1186,ABS Power Relay Output Open Circuit
+1187,Brake Fluid Level Sensor Input Open Circuit
+1188,Brake Fluid Level Sensor Input Short Circuit To Battery
+1189,Brake Fluid Level Sensor Input Short Circuit To Ground
+1190,Speed Wheel Sensor LF Input Short Circuit To Battery
+1191,Speed Wheel Sensor LF Input Short Circuit To Ground
+1192,Speed Wheel Sensor RF Input Short Circuit To Battery
+1193,Speed Wheel Sensor RF Input Short Circuit To Ground
+1194,ABS Outlet Valve Coil LF Circuit Failure
+1195,ABS Outlet Valve Coil LF Circuit Open
+1196,ABS Outlet Valve Coil LF Circuit Short To Battery
+1197,ABS Outlet Valve Coil LF Circuit Short To Ground
+1198,ABS Inlet Valve Coil LF Circuit Failure
+1199,ABS Inlet Valve Coil LF Circuit Open
+1200,ABS Inlet Valve Coil LF Circuit Short To Battery
+1201,ABS Inlet Valve Coil LF Circuit Short To Ground
+1202,ABS Outlet Valve Coil Rear Circuit Failure
+1203,ABS Outlet Valve Coil Rear Circuit Open
+1204,ABS Outlet Valve Coil Rear Circuit Short To Battery
+1205,ABS Outlet Valve Coil Rear Circuit Short To Ground
+1206,ABS Inlet Valve Coil Rear Circuit Failure
+1207,ABS Inlet Valve Coil Rear Circuit Open
+1208,ABS Inlet Valve Coil Rear Circuit Short To Battery
+1209,ABS Inlet Valve Coil Rear Circuit Short To Ground
+1210,ABS Outlet Valve Coil RF Circuit Failure
+1211,ABS Outlet Valve Coil RF Circuit Open
+1212,ABS Outlet Valve Coil RF Circuit Short To Battery
+1213,ABS Outlet Valve Coil RF Circuit Short To Ground
+1214,ABS Inlet Valve Coil RF Circuit Failure
+1215,ABS Inlet Valve Coil RF Circuit Open
+1216,ABS Inlet Valve Coil RF Circuit Short To Battery
+1217,ABS Inlet Valve Coil RF Circuit Short To Ground
+1218,Lamp ABS Warning Output Circuit Failure
+1219,Lamp ABS Warning Output Circuit Open
+1220,Lamp ABS Warning Output Circuit Short To Battery
+1221,Lamp ABS Warning Output Circuit Short To Ground
+1222,Speed Wheel Mismatch
+1223,Lamp Brake Warning Output Circuit Failure
+1224,Lamp Brake Warning Output Circuit Open
+1225,Lamp Brake Warning Output Circuit Short To Battery
+1226,Lamp Brake Warning Output Circuit Short To Ground
+1227,Speed Wheel Sensor LR Input Short Circuit To Battery
+1228,Speed Wheel Sensor LR Input Short Circuit To Ground
+1229,Speed Wheel Sensor Rear Center Coherency Fault
+1230,Speed Wheel Sensor Rear Center Input Circuit Failure
+1231,Speed Wheel Sensor Rear Center Circuit Open
+1232,Speed Wheel Sensor Rear Center Input Short Circuit To Battery
+1233,Speed Wheel LF Input Signal Missing
+1234,Speed Wheel RF Input Signal Missing
+1235,Speed Wheel RR Input Signal Missing
+1236,Speed Wheel LR Input Signal Missing
+1237,Speed Wheel Rear Input Signal Missing
+1238,ABS Hydraulic Pressure Differential Switch Input Circuit Failure
+1239,ABS Hydraulic Pressure Differential Switch Input  Open Circuit
+1240,ABS Hydraulic Pressure Differential Switch Input Short Circuit To Battery
+1241,ABS Hydraulic Pressure Differential Switch Input Short Circuit To Ground
+1242,ABS Outlet Valve Coil LR Circuit Failure
+1243,ABS Outlet Valve Coil LR Circuit Open
+1244,ABS Outlet Valve Coil LR Circuit Short To Battery
+1245,ABS Outlet Valve Coil LR Circuit Short To Ground
+1246,ABS Outlet Valve Coil RR Circuit Failure
+1247,ABS Outlet Valve Coil RR Circuit Open
+1248,ABS Outlet Valve Coil RR Circuit Short To Battery
+1249,ABS Outlet Valve Coil RR Circuit Short To Ground
+1250,ABS Inlet Valve Coil LR Circuit Failure
+1251,ABS Inlet Valve Coil LR Circuit Open
+1252,ABS Inlet Valve Coil LR Circuit Short To Battery
+1253,ABS Inlet Valve Coil LR Circuit Short To Ground
+1254,ABS Inlet Valve Coil RR Circuit Failure
+1255,ABS Inlet Valve Coil RR Circuit Open
+1256,ABS Inlet Valve Coil RR Circuit Short To Battery
+1257,ABS Inlet Valve Coil RR Circuit Short To Ground
+1258,Speed Wheel LF Comparison Failure
+1259,Speed Wheel RF Comparison Failure
+1260,Speed Wheel RR Comparison Failure
+1261,Speed Wheel LR Comparison Failure
+1262,Lamp Warning Relay Circuit Failure
+1263,Lamp Warning Relay Circuit Open
+1264,Lamp Warning Relay Circuit Short To Battery
+1265,Lamp Warning Relay Circuit Short To Ground
+1266,ABS Valve Power Relay Circuit Failure
+1267,ABS Functions Temporarily Disabled
+1268,Motor Relay # 1 Circuit Failure
+1269,Motor Relay # 1 Circuit Short to Battery
+1270,Motor # 1 Input Circuit Failure
+1271,Motor # 1 Input Circuit Short to Gnd
+1272,Motor # 2 Input Circuit Failure
+1273,Motor # 2 Input Circuit Short to Vbat
+1274,Solenoid Relay # 1 Circuit Failure
+1275,Solenoid Relay # 1 Circuit Short to Vbatt
+1276,Park Brake Actuator Assembly Switch Applied Circuit Short to Gnd
+1277,STEERING Wheel Angle 1and 2 Circuit Failure
+1278,STEERING Wheel Angle 1and 2 Signal Faulted
+1279,Yaw Rate Sensor circuit Failure
+1280,Yaw Rate Sensor Signal Fault
+1281,Lateral Accelerometer circuit Failure
+1282,Lateral Accelerometer Signal Fault
+1283,Switch Test Signal Failure
+1284,Oil Pressure Switch Failure
+1285,Booster Solenoid circuit Failure
+1286,Booster Mechanical Failure
+1287,Booster Pedal Force switch circuit Failure
+1288,Pressure Transducer Main / Primary Input Circuit Failure
+1289,Pressure Transducer Redundant / Secondary Input Circuit Failure
+1400,Traction Control Valve RF Circuit Failure
+1401,Traction Control Valve RF Circuit Open
+1402,Traction Control Valve RF Circuit Short To Ground
+1403,Traction Control Valve RF Circuit Short To Battery
+1404,Traction Control Valve Rear Circuit Failure
+1405,Traction Control Valve Rear Circuit Open
+1406,Traction Control Valve Rear Circuit Short To Ground
+1407,Traction Control Valve Rear Circuit Short To Battery
+1410,Traction Control Valve LF Circuit Failure
+1411,Traction Control Valve LF Circuit Open
+1412,Traction Control Valve LF Circuit Short To Ground
+1413,Traction Control Valve LF Circuit Short To Battery
+1414,Incorrect Module Design Level
+1415,Incorrect Module Configuration
+1416,Damper RF Circuit Short To Battery
+1417,Damper RF Circuit Short to Ground
+1418,Damper RF Circuit Failure
+1419,Damper RF Circuit Open
+1420,Hydraulic Fluid Pressure/ Flow Circuit Short to Vbatt
+1421,Damper LF Circuit Short To Battery
+1422,Damper LF Circuit Short to Ground
+1423,Damper LF Circuit Failure
+1424,Damper LF Circuit Open
+1425,Damper RR Circuit Short to Ground
+1426,Damper RR Circuit Short To Battery
+1427,Damper RR Circuit Open
+1428,Damper RR Circuit Failure
+1429,Input-shaft-speed input circuit failure
+1430,Damper LR Circuit Open
+1431,Damper LR Circuit Short To Battery
+1432,Damper LR Circuit Short to Ground
+1433,Damper LR Circuit Failure
+1435,Accelerometer Rear Circuit Failure
+1436,Accelerometer Rear Circuit Signal Is Not Sensed
+1437,Accelerometer Rear Circuit Short To Ground
+1438,Accelerometer Rear Circuit Short To Battery
+1439,Vehicle Acceleration EEC-IV Circuit Failure
+1440,Pressure Transducer Main / Primary signal Faulted
+1441,Steering Phase A Circuit Signal Is Not Sensed
+1442,Steering Phase B Circuit Signal Is Not Sensed
+1443,Steering Phase A Circuit Short To Ground
+1444,Steering Phase B Circuit Short To Ground
+1445,Speed Vehicle Signal Circuit Failure
+1446,Brake Switch Circuit Failure
+1447,Traction Control Module Request Circuit Failure
+1448,Lamp Adaptive Damping Warning Circuit Failure
+1449,Traction Control Motor Coherency Fault
+1450,Traction Control Motor Circuit Failure
+1451,Traction Control Motor Circuit Open
+1452,Traction Control Motor Circuit Short to Battery
+1453,Traction Control Motor Circuit Short to Ground
+1454,Front Lateral Accelerometer Circuit Failure
+1455,Accelerometer Front Circuit Failure
+1456,Accelerometer Front Circuit Is Not Sensed
+1457,Accelerometer Front Circuit Short To Ground
+1458,Accelerometer Front Circuit Short To Battery
+1459,Adaptive Mode Switch Circuit Failure
+1460,Vehicle Accelerometer Power Circuit Failure
+1461,Vehicle Accelerometer Power Circuit Short to Battery
+1462,Left Front Vertical Accelerometer Circuit Failure
+1463,Right Front Vertical Accelerometer Circuit Failure
+1464,Pressure Transducer Redundant / Secondary Signal Faulted
+1465,Damper High Side Front Circuit Short To Battery
+1466,Damper Circuit Failure
+1467,Damper High Side Rear Circuit Short To Battery
+1468,Damper Low Side Front Circuit Failure
+1469,Damper Low Side Rear Circuit Failure
+1495,Traction Control Motor Potentiometer Circuit Failure
+1496,Traction Control Motor Potentiometer Circuit Open
+1497,Traction Control Motor Potentiometer Circuit Short to Battery
+1498,Traction Control Motor Potentiometer Circuit Short to Ground
+1499,"Transfer Case Contact Plate ""A"" Encoder Circuit Failure"
+1500,"Transfer Case Contact Plate ""B"" Encoder Circuit Failure"
+1501,"Transfer Case Contact Plate ""C"" Encoder Circuit Failure"
+1502,"Transfer Case Contact Plate ""D"" Encoder Circuit Failure"
+1503,Dynamic Stability Control Left Front Valve Malfunction
+1504,Dynamic Stability Control Right Front Valve Malfunction
+1505,Dynamic Stability Control Left Rear Valve Malfunction
+1506,Dynamic Stability Control Right Rear Valve Malfunction
+1507,Traction Control of Brake Exceeds Time-Out
+1508,Traction Control of Engine Exceeds Time-Out
+1510,Right Front Wheel Pressure Reduction Performance Problem
+1511,Left Front Wheel Pressure Reduction Performance Problem
+1512,Right Rear Wheel Pressure Reduction Performance Problem
+1513,Left rear Wheel Pressure Reduction Performance Problem
+1699,Left Rear Sensor Circuit Short to Vbat
+1700,Left Rear Sensor Circuit Failure
+1701,Left Rear Sensor Circuit Fault
+1702,RightRear Sensor Circuit Short to Vbat
+1703,Right Rear Sensor Circuit Failure
+1704,Right Rear Sensor Circuit Fault
+1705,Left Rear Center Sensor Circuit Short to Vbat
+1706,Left Rear Center Sensor Circuit Failure
+1707,Left Rear Center Sensor Circuit Fault
+1708,Right Rear Center Sensor Circuit Short to Vbat
+1709,Right Rear Center Sensor Circuit Failure
+1710,Right Rear Center Sensor Circuit Fault
+1711,Left Front Sensor Circuit Short to Vbat
+1712,Left Front Sensor Circuit Failure
+1713,Left Front Sensor Circuit Fault
+1714,Right Front Sensor Circuit Short to Vbat
+1715,Right Front Sensor Circuit Failure
+1716,Right Front Sensor Circuit Fault
+1717,Left Front Center Sensor Circuit Short to Vbat
+1718,Left Front Center Sensor Circuit Failure
+1719,Left Front Center Sensor Circuit Fault
+1721,Air Suspension Height Sensor Power Circuit Open
+1722,Air Suspension Height Sensor Power Circuit Short To Battery
+1723,Air Suspension Height Sensor Power Circuit Short To Ground
+1724,Air Suspension Height Sensor Power Circuit Failure
+1725,Air Suspension Front Pneumatic Failure
+1726,Air Suspension Rear Pneumatic Failure
+1727,Air Suspension Reservoir Pneumatic Failure
+1728,Transfer  Case unable to transition between 2H and 4H
+1729,Transfer  Case unable to transition between 4H and 4L
+1730,Reference Voltage Out of Range (+5 v)
+1731,Air Suspension LF Corner Up Timeout
+1732,Air Suspension LF Corner Down Timeout
+1733,Air Suspension RF Corner Up Timeout
+1734,Air Suspension RF Corner Down Timeout
+1735,Air Suspension LR Corner Up Timeout
+1736,Air Suspension LR Corner Down Timeout
+1737,Air Suspension RR Corner Up Timeout
+1738,Air Suspension RR Corner Down Timeout
+1739,Right Front Center Sensor Circuit Short to Vbat
+1740,Right Front Center Sensor Circuit Failure
+1741,Right Front Center Sensor Circuit Fault
+1742,Rear Sounder Circuit Failure
+1743,Rear Sounder Circuit Short to Vbatt
+1744,Front Sounder Circuit Failure
+1745,Front Sounder Circuit Short to Vbatt
+1748,Switch input Circuit Short to Gnd
+1749,Trailer Input Circuit Failure
+1750,Accelerator Position Sensor Out of Range
+1751,Vehicle Speed Sensor # 1 Output Circuit Short to Vbatt
+1752,Vehicle Speed Sensor # 1 Output Circuit Short to Gnd
+1753,Hydraulic Clutch Actuator Valve Signal Fault
+1754,Hydraulic Clutch Actuator Valve Circuit Failure
+1755,Power Limit Shutdown Fault
+1756,Air Suspension Front Height Sensor High (SE) Signal Circuit Failure
+1757,Air Suspension Front Height Sensor High (SE) Signal Circuit Open
+1758,Air Suspension Front Height Sensor High (SE) Signal Circuit Short To Battery
+1759,Air Suspension Front Height Sensor High (SE) Signal Circuit Short To Ground
+1760,Air Suspension Rear Height Sensor High (SE) Signal Circuit Failure
+1761,Air Suspension Rear Height Sensor High (SE) Signal Circuit Open
+1762,Air Suspension Rear Height Sensor High (SE) Signal Circuit Short To Battery
+1763,Air Suspension Rear Height Sensor High (SE) Signal Circuit Short To Ground
+1765,Air Suspension Rear Height Sensor Low Signal Circuit Failure
+1766,Air Suspension Rear Height Sensor Low Signal Circuit Open
+1767,Air Suspension Rear Height Sensor Low Signal Circuit Short To Battery
+1768,Air Suspension Rear Height Sensor Low Signal Circuit Short To Ground
+1770,Air Suspension Vent Solenoid Output Circuit Failure
+1771,Air Suspension Vent Solenoid Output Circuit Open
+1772,Air Suspension Vent Solenoid Output Circuit Short To Battery
+1773,Air Suspension Vent Solenoid Output Circuit Short To Ground
+1774,Coolant Temp Out of Range
+1775,DC-DC Converter Failure
+1776,Heater System Failure
+1777,Vacuum Pressure Circuit Failure
+1778,Power Steering Failure
+1779,Blower Switch Failure
+1780,Temperature Select Failure
+1781,Engine Coolant Temperature Signal Missing/Fault
+1790,Air Suspension LR Air Spring/Shock Solenoid Output Circuit Failure
+1791,Air Suspension LR Air Spring/Shock Solenoid Output Circuit Open
+1792,Air Suspension LR Air Spring/Shock Solenoid Output Circuit Short To Battery
+1793,Air Suspension LR Air Spring/Shock Solenoid Output Circuit Short To Ground
+1795,Air Suspension RR Air Spring/Shock Solenoid Output Circuit Failure
+1796,Air Suspension RR Air Spring/Shock Solenoid Output Circuit Open
+1797,Air Suspension RR Air Spring/Shock Solenoid Output Circuit Short To Battery
+1798,Air Suspension RR Air Spring/Shock Solenoid Output Circuit Short To Ground
+1800,Air Suspension Reservoir Solenoid Circuit Failure
+1805,Mismatched PCM and/or ABS-TC Module
+1813,Air Suspension LR Vent Request Exceeded Max Timing
+1814,Air Suspension RR Vent Request Exceeded Max Timing
+1818,Air Suspension LR Air Compress Request Exceeded Max Timing
+1819,Air Suspension RR Air Compress Request Exceeded Max Timing
+1820,Air Suspension RF Air Compress Request Exceeded Max Timing
+1830,Air Suspension Compressor Relay Circuit Failure
+1831,Air Suspension Compressor Relay Circuit Open
+1832,Air Suspension Compressor Relay Circuit Short To Battery
+1833,Air Suspension Compressor  Relay Circuit Short To Ground
+1834,Gauge Drive Current Fault
+1835,Current Sense Circuit Failure
+1836,Battery Temp out of Range
+1837,Battery Heater Circuit Failure
+1838,Charging System Fault
+1839,Leakage Fault
+1840,Air Suspension Disable Switch Circuit Failure
+1841,Air Suspension Disable Switch Circuit Open
+1842,Air Suspension Disable Switch Circuit Short To Battery
+1843,Air Suspension Disable Switch Circuit Short To Ground
+1844,Air Suspension Secondary Front Inflator Solenoid Output Circuit Failure
+1845,Air Suspension Front Inflator Solenoid Output Circuit Failure
+1846,Air Suspension Front Inflator Solenoid Output Circuit Open
+1847,Air Suspension Front Inflator Solenoid Output Circuit Short To  Battery
+1848,Air Suspension Front Inflator Solenoid Output Circuit Short To Ground
+1849,Master Cylinder Pressure Out of Range
+1850,Air Suspension Warning Lamp Circuit Failure
+1851,Air Suspension Warning Lamp Circuit Open
+1852,Air Suspension Warning Lamp Circuit Short To Battery
+1853,Air Suspension Warning Lamp Circuit Short To Ground
+1854,Motor Temperature Out of Range
+1855,Acceleration Position Sensor Conflict
+1856,Traction Motor Encoder  circuit Failure
+1859,PRNDL Input #2 Circuit Failure
+1860,PRNDL Input #3 Circuit Failure
+1861,PRNDL Input #4 Circuit Failure
+1862,Contactor Circuit Failure
+1863,External Charging Fault
+1864,Battery Module Fault
+1865,Air Suspension Rear Inflator Solenoid Output Circuit Failure
+1866,Air Suspension Rear Inflator Solenoid Output Circuit Open
+1867,Air Suspension Rear Inflator Solenoid Output Circuit Short To  Battery
+1868,Air Suspension Rear Inflator Solenoid Output Circuit Short To Ground
+1869,Air Suspension Gate Solenoid Output Circuit Failure
+1870,Air Suspension Gate Solenoid Output Circuit Open
+1871,Air Suspension Gate Solenoid Output Circuit Short To  Battery
+1872,Air Suspension Gate Solenoid Output Circuit Short To Ground
+1873,Air Suspension RF Air Spring Solenoid Output Circuit Failure
+1874,Air Suspension RF Air Spring Solenoid Output Circuit Open
+1875,Air Suspension RF Air Spring Solenoid Output Circuit Short To Battery
+1876,Air Suspension RF Air Spring Solenoid Output Circuit Short To Ground
+1877,Air Suspension LF Air Spring Solenoid Output Circuit Failure
+1878,Air Suspension LF Air Spring Solenoid Output Circuit Open
+1879,Air Suspension LF Air Spring Solenoid Output Circuit Short To Battery
+1880,Air Suspension LF Air Spring Solenoid Output Circuit Short To Ground
+1881,Air Suspension RF Height Sensor Circuit Failure
+1882,Air Suspension RF Height Sensor Circuit Open
+1883,Air Suspension RF Height Sensor Circuit Short To Battery
+1884,Air Suspension RF Height Sensor Circuit Short To Ground
+1885,Air Suspension RR Height Sensor Circuit Failure
+1886,Air Suspension RR Height Sensor Circuit Open
+1887,Air Suspension RR Height Sensor Circuit Short To Battery
+1888,Air Suspension RR Height Sensor Circuit Short To Ground
+1889,Air Suspension LF Height Sensor Circuit Failure
+1890,Air Suspension LF Height Sensor Circuit Open
+1891,Air Suspension LF Height Sensor Circuit Short To Battery
+1892,Air Suspension LF Height Sensor Circuit Short To Ground
+1893,Air Suspension LR Height Sensor Circuit Failure
+1894,Air Suspension LR Height Sensor Circuit Open
+1895,Air Suspension LR Height Sensor Circuit Short To Battery
+1896,Air Suspension LR Height Sensor Circuit Short To Ground
+1897,Steering VAPS II Circuit Loop Failure
+1898,Steering VAPS II Circuit Loop Open
+1899,Steering VAPS II Circuit Loop Short To Battery
+1900,Steering VAPS II Circuit Loop Short To Ground
+1901,Ride Control RR Shock Actuator Circuit Failure
+1902,Ride Control RR Shock Actuator Circuit Open
+1903,Ride Control RR Shock Actuator Circuit Short To Battery
+1904,Ride Control RR Shock Actuator Circuit Short To Ground
+1905,Ride Control LR Shock Actuator Circuit Failure
+1906,Ride Control LR Shock Actuator Circuit Open
+1907,Ride Control LR Shock Actuator Circuit Short To Battery
+1908,Ride Control LR Shock Actuator Circuit Short To Ground
+1909,Ride Control RF Shock Actuator Circuit Failure
+1910,Ride Control RF Shock Actuator Circuit Open
+1911,Ride Control RF Shock Actuator Circuit Short To Battery
+1912,Ride Control RF Shock Actuator Circuit Short To Ground
+1913,Ride Control LF Shock Actuator Circuit Failure
+1914,Ride Control LF Shock Actuator Circuit Open
+1915,Ride Control LF Shock Actuator Circuit Short To Battery
+1916,Ride Control LF Shock Actuator Circuit Short To Ground
+1917,Steering EVO Out-of-Range Fault
+1918,Air Suspension Ride Height Select Switch Circuit Failure
+1920,Led #1 Circuit Failure
+1921,VAPS Solenoid Actuator Output Circuit Failure
+1922,VAPS Solenoid Actuator Output Circuit Open
+1923,VAPS Solenoid Actuator Output Circuit Short To Battery
+1924,VAPS Solenoid Actuator Output Circuit Short To Ground
+1925,VAPS Solenoid Actuator Return Circuit Failure
+1926,VAPS Solenoid Actuator Return Circuit Open
+1927,VAPS Solenoid Actuator Return Circuit Short To Battery
+1928,VAPS Solenoid Actuator Return Circuit Short To Ground
+1929,Air Suspension Front Compressor Relay Circuit Failure
+1930,Air Suspension Front Compressor Relay Circuit Open
+1931,Air Suspension Front Compressor Relay Circuit Short To Battery
+1932,Air Suspension Front Compressor Relay Circuit Short To Ground
+1933,Solenoid Current Out Of Range
+1934,HPU (Hydraulic Pump Unit) Pressurisation Failure
+1935,Chime Circuit Failure
+1936,Hydraulic Pump Relay Circuit Failure
+1937,Steering Wheel Angle Sensor Offset Failure
+1938,Invalid Steering Wheel Angle Sensor ID
+1939,Brake Pressure Switch Input Circuit Failure
+1940,Brake Pressure Switch Mechanical Failure
+1942,Unrecognized Powertrain Configuration
+1943,Airbag Deployment Indication Input Fault
+1944,Gauge Driver Circuit Fault
+1945,Park Switch Indicates Park with Vehicle Moving
+1946,Seat Track Position Switch Circuit Open
+1947,Seat Track Position Switch Circuit Short to Ground
+1948,Seat Track Position Switch Circuit Resistance Out of Range
+1949,Accelerometer Sensor Circuit Open
+1950,Accelerometer Sensor Circuit Failure
+1951,Lateral Accelerometer Sensor Circuit Open
+1952,Yaw Rate Sensor Circuit Open
+1953,Master Cylinder Pressure Sensor Circuit Open
+1954,Master Cylinder Pressure Sensor Circuit Failure
+1955,Steering Angle Sensor Circuit Open
+1956,Steering Angle Sensor Circuit Failure
+1957,Dynamic Stability Control Valve RF Circuit Failure
+1958,Dynamic Stability Control Valve LF Circuit Failure
+1959,Lateral Accelerometer Sensor Circuit Failure
+1960,Driver Brake Apply Circuit Fault
+1961,Park Lamp Relay Coil Circuit Failure
+1962,Park Lamp Relay Coil Short to Battery
+1963,Stability Control Inhibit Warning
+2767,Reserved - TBD
+1000,SCP (J1850) Invalid or Missing Data for Primary Id
+1001,SCP (J1850) Invalid or Missing Data for Primary Id
+1002,SCP (J1850) Invalid or Missing Data for Primary Id
+1003,SCP (J1850) Invalid or Missing Data for Primary Id
+1004,SCP (J1850) Invalid or Missing Data for EEC Programming
+1005,SCP (J1850) Invalid or Missing Data for EEC Programming
+1006,SCP (J1850) Invalid or Missing Data for Primary Id
+1007,SCP (J1850) Invalid or Missing Data for Primary Id
+1008,SCP (J1850) Invalid or Missing Data for Engine Torque
+1009,SCP (J1850) Invalid or Missing Data for Engine Torque
+1010,SCP (J1850) Invalid or Missing Data for Engine Air Intake
+1011,SCP (J1850) Invalid or Missing Data for Engine Air Intake
+1012,SCP (J1850) Invalid or Missing Data for Primary Id
+1013,SCP (J1850) Invalid or Missing Data for Primary Id
+1014,SCP (J1850) Invalid or Missing Data for Primary Id
+1015,SCP (J1850) Invalid or Missing Data for Primary Id
+1016,SCP (J1850) Invalid or Missing Data for Primary Id
+1017,SCP (J1850) Invalid or Missing Data for Primary Id
+1018,SCP (J1850) Invalid or Missing Data for Throttle
+1019,SCP (J1850) Invalid or Missing Data for Throttle
+1020,SCP (J1850) Invalid or Missing Data for Air Conditioning Clutch
+1021,SCP (J1850) Invalid or Missing Data for Air Conditioning Clutch
+1022,SCP (J1850) Invalid or Missing Data for Primary Id
+1023,SCP (J1850) Invalid or Missing Data for Primary Id
+1024,SCP (J1850) Invalid or Missing Data for Primary Id
+1025,SCP (J1850) Invalid or Missing Data for Primary Id
+1026,SCP (J1850) Invalid or Missing Data for Engine RPM
+1027,SCP (J1850) Invalid or Missing Data for Engine RPM
+1028,SCP (J1850) Invalid or Missing Data for Primary Id
+1029,SCP (J1850) Invalid or Missing Data for Primary Id
+1030,SCP (J1850) Invalid or Missing Data for Experimental #1
+1031,SCP (J1850) Invalid or Missing Data for Experimental #1
+1032,SCP (J1850) Invalid or Missing Data for Primary Id
+1033,SCP (J1850) Invalid or Missing Data for Primary Id
+1034,SCP (J1850) Invalid or Missing Data for Primary Id
+1035,SCP (J1850) Invalid or Missing Data for Primary Id
+1036,SCP (J1850) Invalid or Missing Data for Wheels
+1037,SCP (J1850) Invalid or Missing Data for Wheels
+1038,SCP (J1850) Invalid or Missing Data for Primary Id
+1039,SCP (J1850) Invalid or Missing Data for Primary Id / Vehicle Speed
+1040,SCP (J1850) Invalid or Missing Data for Vehicle Speed
+1041,SCP (J1850) Invalid or Missing Data for Vehicle Speed
+1042,SCP (J1850) Invalid or Missing Data for Traction Control
+1043,SCP (J1850) Invalid or Missing Data for Traction Control
+1044,SCP (J1850) Invalid or Missing Data for Traction Motor
+1045,SCP (J1850) Invalid or Missing Data for Traction Motor
+1046,SCP (J1850) Invalid or Missing Data for Primary Id
+1047,SCP (J1850) Invalid or Missing Data for Primary Id
+1048,SCP (J1850) Invalid or Missing Data for Primary Id
+1049,SCP (J1850) Invalid or Missing Data for Primary Id
+1050,SCP (J1850) Invalid or Missing Data for Brakes
+1051,SCP (J1850) Invalid or Missing Data for Brakes
+1052,SCP (J1850) Invalid or Missing Data for Steering / Steering Wheel
+1053,SCP (J1850) Invalid or Missing Data for Steering / Steering Wheel
+1054,SCP (J1850) Invalid or Missing Data for Primary Id
+1055,SCP (J1850) Invalid or Missing Data for Primary Id
+1056,SCP (J1850) Invalid or Missing Data for Vehicle Configuration
+1057,SCP (J1850) Invalid or Missing Data for Vehicle Configuration
+1058,SCP (J1850) Invalid or Missing Data for Transmission / Transaxle / PRNDL
+1059,SCP (J1850) Invalid or Missing Data for Transmission / Transaxle / PRNDL
+1060,SCP (J1850) Invalid or Missing Data for Primary Id
+1061,SCP (J1850) Invalid or Missing Data for Primary Id
+1062,SCP (J1850) Invalid or Missing Data for Primary Id
+1063,SCP (J1850) Invalid or Missing Data for Primary Id
+1064,SCP (J1850) Invalid or Missing Data for Primary Id
+1065,SCP (J1850) Invalid or Missing Data for Primary Id
+1066,SCP (J1850) Invalid or Missing Data for Primary Id
+1067,SCP (J1850) Invalid or Missing Data for Primary Id
+1068,SCP (J1850) Invalid or Missing Data for Primary Id
+1069,SCP (J1850) Invalid or Missing Data for Primary Id
+1070,SCP (J1850) Invalid or Missing Data for Engine Sensors
+1071,SCP (J1850) Invalid or Missing Data for Engine Sensors
+1072,SCP (J1850) Invalid or Missing Data for Engine Coolant
+1073,SCP (J1850) Invalid or Missing Data for Engine Coolant
+1074,SCP (J1850) Invalid or Missing Data for Engine Oil
+1075,SCP (J1850) Invalid or Missing Data for Engine Oil Temp
+1076,SCP (J1850) Invalid or Missing Data for Primary Id
+1077,SCP (J1850) Invalid or Missing Data for Primary Id
+1078,SCP (J1850) Invalid or Missing Data for Primary Id
+1079,SCP (J1850) Invalid or Missing Data for Primary Id
+1080,SCP (J1850) Invalid or Missing Data for Primary Id
+1081,SCP (J1850) Invalid or Missing Data for Primary Id
+1082,SCP (J1850) Invalid or Missing Data for Engine Systems Other
+1083,SCP (J1850) Invalid or Missing Data for Engine Systems Other
+1084,SCP (J1850) Invalid or Missing Data for Powertrain Status Request
+1085,SCP (J1850) Invalid or Missing Data for Powertrain Status Request
+1086,SCP (J1850) Invalid or Missing Data for Primary Id
+1087,SCP (J1850) Invalid or Missing Data for Primary Id
+1088,SCP (J1850) Invalid or Missing Data for Suspension
+1089,SCP (J1850) Invalid or Missing Data for Suspension
+1090,SCP (J1850) Invalid or Missing Data for Non-Legislated Diagnostics
+1091,SCP (J1850) Invalid or Missing Data for Non-Legislated Diagnostics
+1092,SCP (J1850) Invalid or Missing Data for Primary Id
+1093,SCP (J1850) Invalid or Missing Data for Primary Id
+1094,SCP (J1850) Invalid or Missing Data for Experimental #2
+1095,SCP (J1850) Invalid or Missing Data for Experimental #2
+1096,SCP (J1850) Invalid or Missing Data for Primary Id
+1097,SCP (J1850) Invalid or Missing Data for Primary Id
+1098,SCP (J1850) Invalid or Missing Data for Vehicle Speed Control
+1099,SCP (J1850) Invalid or Missing Data for Vehicle Speed Control
+1100,SCP (J1850) Invalid or Missing Data for Primary Id
+1101,SCP (J1850) Invalid or Missing Data for Primary Id
+1102,SCP (J1850) Invalid or Missing Data for Primary Id
+1103,SCP (J1850) Invalid or Missing Data for Primary Id
+1104,SCP (J1850) Invalid or Missing Data for Chassis Status Request
+1105,SCP (J1850) Invalid or Missing Data for Chassis Status Request
+1106,SCP (J1850) Invalid or Missing Data for Legislated Diagnostics
+1107,SCP (J1850) Invalid or Missing Data for Legislated Diagnostics
+1108,SCP (J1850) Invalid or Missing Data for Electric Traction Drive (Inverter)
+1109,SCP (J1850) Invalid or Missing Data for Electric Traction Drive (Inverter)
+1110,SCP (J1850) Invalid or Missing Data for Primary Id
+1111,SCP (J1850) Invalid or Missing Data for Primary Id
+1112,SCP (J1850) Invalid or Missing Data for Primary Id
+1113,SCP (J1850) Invalid or Missing Data for Primary Id
+1114,SCP (J1850) Invalid or Missing Data for Charging System
+1115,SCP (J1850) Invalid or Missing Data for Charging System
+1116,SCP (J1850) Invalid or Missing Data for Electrical Energy Management
+1117,SCP (J1850) Invalid or Missing Data for Electrical Energy Management
+1118,SCP (J1850) Invalid or Missing Data for Primary Id
+1119,SCP (J1850) Invalid or Missing Data for Primary Id
+1120,SCP (J1850) Invalid or Missing Data for Primary Id
+1121,SCP (J1850) Invalid or Missing Data for Primary Id
+1122,SCP (J1850) Invalid or Missing Data for Odometer
+1123,SCP (J1850) Invalid or Missing Data for Odometer
+1124,SCP (J1850) Invalid or Missing Data for Primary Id
+1125,SCP (J1850) Invalid or Missing Data for Primary Id
+1126,SCP (J1850) Invalid or Missing Data for Primary Id
+1127,SCP (J1850) Invalid or Missing Data for Primary Id
+1128,SCP (J1850) Invalid or Missing Data for Primary Id
+1129,SCP (J1850) Invalid or Missing Data for Primary Id
+1130,SCP (J1850) Invalid or Missing Data for Fuel System
+1131,SCP (J1850) Invalid or Missing Data for Fuel System
+1132,SCP (J1850) Invalid or Missing Data for Vehicle Motion
+1133,SCP (J1850) Invalid or Missing Data for Vehicle Motion
+1134,SCP (J1850) Invalid or Missing Data for Ignition Switch / Starter
+1135,SCP (J1850) Invalid or Missing Data for Ignition Switch / Starter
+1136,SCP (J1850) Invalid or Missing Data for Telltales
+1137,SCP (J1850) Invalid or Missing Data for Telltales
+1138,SCP (J1850) Invalid or Missing Data for Primary Id
+1139,SCP (J1850) Invalid or Missing Data for Primary Id
+1140,SCP (J1850) Invalid or Missing Data for Gateway
+1141,SCP (J1850) Invalid or Missing Data for Gateway
+1142,SCP (J1850) Invalid or Missing Data for Primary Id
+1143,SCP (J1850) Invalid or Missing Data for Primary Id
+1144,SCP (J1850) Invalid or Missing Data for Primary Id
+1145,SCP (J1850) Invalid or Missing Data for Primary Id
+1146,SCP (J1850) Invalid or Missing Data for Vehicle Security
+1147,SCP (J1850) Invalid or Missing Data for Vehicle Security
+1148,SCP (J1850) Invalid or Missing Data for Audio Control
+1149,SCP (J1850) Invalid or Missing Data for Audio Control
+1150,SCP (J1850) Invalid or Missing Data for Audible Warnings
+1151,SCP (J1850) Invalid or Missing Data for Audible Warnings
+1152,SCP (J1850) Invalid or Missing Data for Experimental #3
+1153,SCP (J1850) Invalid or Missing Data for Experimental #3
+1154,SCP (J1850) Invalid or Missing Data for Compact Disc
+1155,SCP (J1850) Invalid or Missing Data for Compact Disc
+1156,SCP (J1850) Invalid or Missing Data for Digital Signal Processing
+1157,SCP (J1850) Invalid or Missing Data for Digital Signal Processing
+1158,SCP (J1850) Invalid or Missing Data for Antenna
+1159,SCP (J1850) Invalid or Missing Data for Antenna
+1160,SCP (J1850) Invalid or Missing Data for Primary Id
+1161,SCP (J1850) Invalid or Missing Data for Primary Id
+1162,SCP (J1850) Invalid or Missing Data for Digital Audio Tape
+1163,SCP (J1850) Invalid or Missing Data for Digital Audio Tape
+1164,SCP (J1850) Invalid or Missing Data for Tuner / Receiver
+1165,SCP (J1850) Invalid or Missing Data for Tuner / Receiver
+1166,SCP (J1850) Invalid or Missing Data for Cassette Tape
+1167,SCP (J1850) Invalid or Missing Data for Cassette Tape
+1168,SCP (J1850) Invalid or Missing Data for Primary Id
+1169,SCP (J1850) Invalid or Missing Data for Primary Id
+1170,SCP (J1850) Invalid or Missing Data for Cellular Phone / Paging System
+1171,SCP (J1850) Invalid or Missing Data for Cellular Phone / Paging System
+1172,SCP (J1850) Invalid or Missing Data for Remote Button Control
+1173,SCP (J1850) Invalid or Missing Data for Remote Button Control
+1174,SCP (J1850) Invalid or Missing Data for Primary Id
+1175,SCP (J1850) Invalid or Missing Data for Primary Id
+1176,SCP (J1850) Invalid or Missing Data for Primary Id
+1177,SCP (J1850) Invalid or Missing Data for Primary Id
+1178,SCP (J1850) Invalid or Missing Data for Climate Control (HVAC)
+1179,SCP (J1850) Invalid or Missing Data for Climate Control (HVAC)
+1180,SCP (J1850) Invalid or Missing Data for Personalization (Memory) Features
+1181,SCP (J1850) Invalid or Missing Data for Personalization (Memory) Features
+1182,SCP (J1850) Invalid or Missing Data for Primary Id
+1183,SCP (J1850) Invalid or Missing Data for Primary Id
+1184,SCP (J1850) Invalid or Missing Data for Window Wiper / Washer
+1185,SCP (J1850) Invalid or Missing Data for Window Wiper / Washer
+1186,SCP (J1850) Invalid or Missing Data for Primary Id
+1187,SCP (J1850) Invalid or Missing Data for Primary Id
+1188,SCP (J1850) Invalid or Missing Data for Primary Id
+1189,SCP (J1850) Invalid or Missing Data for Primary Id
+1190,SCP (J1850) Invalid or Missing Data for Primary Id
+1191,SCP (J1850) Invalid or Missing Data for Primary Id
+1192,SCP (J1850) Invalid or Missing Data for Primary Id
+1193,SCP (J1850) Invalid or Missing Data for Primary Id
+1194,SCP (J1850) Invalid or Missing Data for Mirrors
+1195,SCP (J1850) Invalid or Missing Data for Mirrors
+1196,SCP (J1850) Invalid or Missing Data for Door Locks
+1197,SCP (J1850) Invalid or Missing Data for Door Locks
+1198,SCP (J1850) Invalid or Missing Data for External Access (Doors)
+1199,SCP (J1850) Invalid or Missing Data for External Access (Doors)
+1200,SCP (J1850) Invalid or Missing Data for Seat Motion / Control
+1201,SCP (J1850) Invalid or Missing Data for Seat Motion / Control
+1202,SCP (J1850) Invalid or Missing Data for Windows
+1203,SCP (J1850) Invalid or Missing Data for Windows
+1204,SCP (J1850) Invalid or Missing Data for Steering Column
+1205,SCP (J1850) Invalid or Missing Data for Steering Column
+1206,SCP (J1850) Invalid or Missing Data for Primary Id
+1207,SCP (J1850) Invalid or Missing Data for Primary Id
+1208,SCP (J1850) Invalid or Missing Data for Seat Switches
+1209,SCP (J1850) Invalid or Missing Data for Seat Switches
+1210,SCP (J1850) Invalid or Missing Data for Restraints
+1211,SCP (J1850) Invalid or Missing Data for Restraints
+1212,SCP (J1850) Invalid or Missing Data for Primary Id
+1213,SCP (J1850) Invalid or Missing Data for Primary Id
+1214,SCP (J1850) Invalid or Missing Data for Primary Id
+1215,SCP (J1850) Invalid or Missing Data for Primary Id
+1216,SCP (J1850) Invalid or Missing Data for External Lamp Outage
+1217,SCP (J1850) Invalid or Missing Data for External Lamp Outage
+1218,SCP (J1850) Invalid or Missing Data for External Lamps
+1219,SCP (J1850) Invalid or Missing Data for External Lamps
+1220,SCP (J1850) Invalid or Missing Data for Interior Lamp Outage
+1221,SCP (J1850) Invalid or Missing Data for Interior Lamp Outage
+1222,SCP (J1850) Invalid or Missing Data for Interior Lamps
+1223,SCP (J1850) Invalid or Missing Data for Interior Lamps
+1224,SCP (J1850) Invalid or Missing Data for Primary Id
+1225,SCP (J1850) Invalid or Missing Data for Primary Id
+1226,SCP (J1850) Invalid or Missing Data for Body Status Request
+1227,SCP (J1850) Invalid or Missing Data for Body Status Request
+1228,SCP (J1850) Invalid or Missing Data for Tires
+1229,SCP (J1850) Invalid or Missing Data for Tires
+1230,SCP (J1850) Invalid or Missing Data for Electric Defrost
+1231,SCP (J1850) Invalid or Missing Data for Electric Defrost
+1232,SCP (J1850) Invalid or Missing Data for Navigation
+1233,SCP (J1850) Invalid or Missing Data for Navigation
+1234,SCP (J1850) Invalid or Missing Data for Displays
+1235,SCP (J1850) Invalid or Missing Data for Displays
+1236,SCP (J1850) Invalid or Missing Data for Memory Storage
+1237,SCP (J1850) Invalid or Missing Data for Memory Storage
+1238,SCP (J1850) Invalid or Missing Data for Experimental #4
+1239,SCP (J1850) Invalid or Missing Data for Experimental #4
+1240,SCP (J1850) Invalid or Missing Data for Primary Id
+1241,SCP (J1850) Invalid or Missing Data for Primary Id
+1242,SCP (J1850) Invalid or Missing Data for Exterior Environment
+1243,SCP (J1850) Invalid or Missing Data for Exterior Environment
+1244,SCP (J1850) Invalid or Missing Data for Interior Environment
+1245,SCP (J1850) Invalid or Missing Data for Interior Environment
+1246,SCP (J1850) Invalid or Missing Data for Primary Id
+1247,SCP (J1850) Invalid or Missing Data for Primary Id
+1248,SCP (J1850) Invalid or Missing Data for Time / Date
+1249,SCP (J1850) Invalid or Missing Data for Time / Date
+1250,SCP (J1850) Invalid or Missing Data for Vehicle Id (VIN)
+1251,SCP (J1850) Invalid or Missing Data for Vehicle Id (VIN)
+1252,SCP (J1850) Invalid or Missing Data for Class A Functions
+1253,SCP (J1850) Invalid or Missing Data for Class A Functions
+1254,SCP (J1850) Invalid or Missing Data for Network Control
+1255,SCP (J1850) Invalid or Missing Data for Network Control
+1260,SCP (J1850) Single Ended (+) Circuit Failure
+1261,SCP (J1850) Single Ended (-) Circuit Failure
+1262,SCP (J1850) Communication Bus Fault
+1308,SCP (J1850) Invalid or Missing Data for Function Read  Engine Torque
+1341,SCP (J1850) Invalid or Missing Data for Function Read Vehicle Speed
+1430,SCP (J1850) Invalid or Missing Data for Function Read Fuel System
+1451,SCP (J1850) Invalid or Missing Data for Function Read Audible Warnings /Anti-Theft Module
+1612,SCP (J1850) Lack of Acknowledgment for Primary Id
+1736,SCP (J1850) Lack of Acknowledgment for  Telltales
+1750,SCP (J1850) Lack of Acknowledgment for  Audible Warnings
+1794,SCP (J1850) Lack of Acknowledgment for Mirrors
+1797,SCP (J1850) Lack of Acknowledgment for  Door Locks
+1798,SCP (J1850) Lack of Acknowledgment for  External Access (Doors)
+1806,SCP (J1850) Lack of Acknowledgment for Primary Id
+1900,CAN Communication Bus Fault
+1950,UPB Communication Bus Fault
+2000,Audio Rear Control Unit is Not Responding
+2001,Audio Tape Deck Unit is Not Responding
+2002,Audio Bezel is Not Responding
+2003,Audio Compact Disk / Disk Jockey Unit is Not Responding
+2004,Audio Steering Wheel Control Unit is Not Responding
+2005,Audio Rear Integrated Control Panel Unit is Not Responding
+2006,Audio Remote Climate Control Unit is Not Responding
+2007,Audio Navigation Unit is Not Responding
+2008,Audio Phone is Not Responding
+2009,Audio Front Control Module (ACM) is Not Responding
+2010,Module is Not Responding (Non SCP)
+2011,Module Transmitted Invalid Data (Non SCP)
+2012,Communication Bus Error (Non SCP)
+2013,Compass Module is not Responding
+2014,Audio Subwoofer Unit is Not Responding
+2015,Signal Link Fault (Non SCP)
+2016,Signal Link Short to Ground (Non SCP) / From NGV Module
+2017,Driver Side Crash Sensor Communication Fault (Non SCP)
+2018,Passenger Side Crash Sensor Communication Fault (Non SCP)
+2019,Audio Voice Module Not Responding
+2020,Audio Center Amp is not responding
+2021,Invalid /fault data received (Non SCP)
+2150,SCP (J1850) Invalid Data from REM
+2152,SCP (J1850) Invalid Data from GEM
+2160,SCP (J1850) Invalid Data from IC
+2195,SCP (J1850) Invalid Data from SCLM
+2500,(CAN) Lack of Acknowledgement From Engine Management
