@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "644066304196",
+    "project_id": "codered-f89b7",
+    "storage_bucket": "codered-f89b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:644066304196:android:95647a0bc8a83525f7e991",
+        "android_client_info": {
+          "package_name": "com.udropp.flutterlogindesign"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "644066304196-2d3an8ga7ib38pc122t2o0fsfv98ppdn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB73Kh9sxdwE4ovNQq46lQ9_jA8ZqIPuKs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "644066304196-2d3an8ga7ib38pc122t2o0fsfv98ppdn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
